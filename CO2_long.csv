@@ -1,0 +1,2861 @@
+country,food_category,amount,type
+Argentina,Pork,10.51,consumption
+Argentina,Poultry,38.66,consumption
+Argentina,Beef,55.48,consumption
+Argentina,Lamb & Goat,1.56,consumption
+Argentina,Fish,4.36,consumption
+Argentina,Eggs,11.39,consumption
+Argentina,Milk - inc. cheese,195.08,consumption
+Argentina,Wheat and Wheat Products,103.11,consumption
+Argentina,Rice,8.77,consumption
+Argentina,Soybeans,0,consumption
+Argentina,Nuts inc. Peanut Butter,0.49,consumption
+Australia,Pork,24.14,consumption
+Australia,Poultry,46.12,consumption
+Australia,Beef,33.86,consumption
+Australia,Lamb & Goat,9.87,consumption
+Australia,Fish,17.69,consumption
+Australia,Eggs,8.51,consumption
+Australia,Milk - inc. cheese,234.49,consumption
+Australia,Wheat and Wheat Products,70.46,consumption
+Australia,Rice,11.03,consumption
+Australia,Soybeans,0.19,consumption
+Australia,Nuts inc. Peanut Butter,8.73,consumption
+Albania,Pork,10.88,consumption
+Albania,Poultry,13.23,consumption
+Albania,Beef,22.5,consumption
+Albania,Lamb & Goat,15.32,consumption
+Albania,Fish,3.85,consumption
+Albania,Eggs,12.45,consumption
+Albania,Milk - inc. cheese,303.72,consumption
+Albania,Wheat and Wheat Products,138.64,consumption
+Albania,Rice,7.78,consumption
+Albania,Soybeans,0,consumption
+Albania,Nuts inc. Peanut Butter,4.36,consumption
+Iceland,Pork,21.69,consumption
+Iceland,Poultry,26.87,consumption
+Iceland,Beef,13.36,consumption
+Iceland,Lamb & Goat,21.12,consumption
+Iceland,Fish,74.41,consumption
+Iceland,Eggs,8.24,consumption
+Iceland,Milk - inc. cheese,225.82,consumption
+Iceland,Wheat and Wheat Products,72.92,consumption
+Iceland,Rice,3.89,consumption
+Iceland,Soybeans,0.11,consumption
+Iceland,Nuts inc. Peanut Butter,3.88,consumption
+New Zealand,Pork,22.29,consumption
+New Zealand,Poultry,34.98,consumption
+New Zealand,Beef,22.49,consumption
+New Zealand,Lamb & Goat,18.91,consumption
+New Zealand,Fish,20.36,consumption
+New Zealand,Eggs,9.91,consumption
+New Zealand,Milk - inc. cheese,137.25,consumption
+New Zealand,Wheat and Wheat Products,76.91,consumption
+New Zealand,Rice,9.16,consumption
+New Zealand,Soybeans,0.44,consumption
+New Zealand,Nuts inc. Peanut Butter,8.22,consumption
+USA,Pork,27.64,consumption
+USA,Poultry,50.01,consumption
+USA,Beef,36.24,consumption
+USA,Lamb & Goat,0.43,consumption
+USA,Fish,12.35,consumption
+USA,Eggs,14.58,consumption
+USA,Milk - inc. cheese,254.69,consumption
+USA,Wheat and Wheat Products,80.43,consumption
+USA,Rice,6.88,consumption
+USA,Soybeans,0.04,consumption
+USA,Nuts inc. Peanut Butter,7.86,consumption
+Uruguay,Pork,16.84,consumption
+Uruguay,Poultry,27.45,consumption
+Uruguay,Beef,29.1,consumption
+Uruguay,Lamb & Goat,8.23,consumption
+Uruguay,Fish,6.53,consumption
+Uruguay,Eggs,13.14,consumption
+Uruguay,Milk - inc. cheese,210.54,consumption
+Uruguay,Wheat and Wheat Products,109.31,consumption
+Uruguay,Rice,11.5,consumption
+Uruguay,Soybeans,0.01,consumption
+Uruguay,Nuts inc. Peanut Butter,0.95,consumption
+Luxembourg,Pork,43.58,consumption
+Luxembourg,Poultry,21.37,consumption
+Luxembourg,Beef,29.88,consumption
+Luxembourg,Lamb & Goat,1.67,consumption
+Luxembourg,Fish,23.09,consumption
+Luxembourg,Eggs,14.64,consumption
+Luxembourg,Milk - inc. cheese,255.3,consumption
+Luxembourg,Wheat and Wheat Products,103.2,consumption
+Luxembourg,Rice,4.2,consumption
+Luxembourg,Soybeans,0.04,consumption
+Luxembourg,Nuts inc. Peanut Butter,0.93,consumption
+Brazil,Pork,12.6,consumption
+Brazil,Poultry,45,consumption
+Brazil,Beef,39.25,consumption
+Brazil,Lamb & Goat,0.62,consumption
+Brazil,Fish,10.01,consumption
+Brazil,Eggs,8.98,consumption
+Brazil,Milk - inc. cheese,149.28,consumption
+Brazil,Wheat and Wheat Products,53,consumption
+Brazil,Rice,32.13,consumption
+Brazil,Soybeans,3.62,consumption
+Brazil,Nuts inc. Peanut Butter,0.67,consumption
+Kazakhstan,Pork,10.36,consumption
+Kazakhstan,Poultry,18.38,consumption
+Kazakhstan,Beef,23.38,consumption
+Kazakhstan,Lamb & Goat,9.56,consumption
+Kazakhstan,Fish,5.21,consumption
+Kazakhstan,Eggs,8.29,consumption
+Kazakhstan,Milk - inc. cheese,288.12,consumption
+Kazakhstan,Wheat and Wheat Products,92.31,consumption
+Kazakhstan,Rice,7.32,consumption
+Kazakhstan,Soybeans,0.03,consumption
+Kazakhstan,Nuts inc. Peanut Butter,5.14,consumption
+Sweden,Pork,37,consumption
+Sweden,Poultry,16.64,consumption
+Sweden,Beef,24.58,consumption
+Sweden,Lamb & Goat,1.41,consumption
+Sweden,Fish,23.86,consumption
+Sweden,Eggs,13.37,consumption
+Sweden,Milk - inc. cheese,341.23,consumption
+Sweden,Wheat and Wheat Products,79.59,consumption
+Sweden,Rice,5.96,consumption
+Sweden,Soybeans,0.13,consumption
+Sweden,Nuts inc. Peanut Butter,6.23,consumption
+Bermuda,Pork,28.24,consumption
+Bermuda,Poultry,32.62,consumption
+Bermuda,Beef,33.15,consumption
+Bermuda,Lamb & Goat,2.71,consumption
+Bermuda,Fish,33.22,consumption
+Bermuda,Eggs,14.92,consumption
+Bermuda,Milk - inc. cheese,95.56,consumption
+Bermuda,Wheat and Wheat Products,54.88,consumption
+Bermuda,Rice,5.38,consumption
+Bermuda,Soybeans,0.22,consumption
+Bermuda,Nuts inc. Peanut Butter,5.72,consumption
+Denmark,Pork,24.87,consumption
+Denmark,Poultry,26.75,consumption
+Denmark,Beef,28.46,consumption
+Denmark,Lamb & Goat,0.92,consumption
+Denmark,Fish,16.49,consumption
+Denmark,Eggs,15.35,consumption
+Denmark,Milk - inc. cheese,277.3,consumption
+Denmark,Wheat and Wheat Products,98,consumption
+Denmark,Rice,4.96,consumption
+Denmark,Soybeans,0.03,consumption
+Denmark,Nuts inc. Peanut Butter,5.94,consumption
+Finland,Pork,36.14,consumption
+Finland,Poultry,19.87,consumption
+Finland,Beef,19.22,consumption
+Finland,Lamb & Goat,0.53,consumption
+Finland,Fish,33.8,consumption
+Finland,Eggs,9.55,consumption
+Finland,Milk - inc. cheese,430.76,consumption
+Finland,Wheat and Wheat Products,81.99,consumption
+Finland,Rice,4.42,consumption
+Finland,Soybeans,0.08,consumption
+Finland,Nuts inc. Peanut Butter,3.43,consumption
+Ireland,Pork,32.4,consumption
+Ireland,Poultry,26.26,consumption
+Ireland,Beef,22.35,consumption
+Ireland,Lamb & Goat,4.1,consumption
+Ireland,Fish,17.39,consumption
+Ireland,Eggs,8.96,consumption
+Ireland,Milk - inc. cheese,291.86,consumption
+Ireland,Wheat and Wheat Products,107.98,consumption
+Ireland,Rice,3,consumption
+Ireland,Soybeans,0.25,consumption
+Ireland,Nuts inc. Peanut Butter,4.1,consumption
+Greece,Pork,28.31,consumption
+Greece,Poultry,15.74,consumption
+Greece,Beef,16.1,consumption
+Greece,Lamb & Goat,12.47,consumption
+Greece,Fish,14.42,consumption
+Greece,Eggs,10.13,consumption
+Greece,Milk - inc. cheese,255.26,consumption
+Greece,Wheat and Wheat Products,124.04,consumption
+Greece,Rice,6.64,consumption
+Greece,Soybeans,0.02,consumption
+Greece,Nuts inc. Peanut Butter,10.5,consumption
+France,Pork,33.05,consumption
+France,Poultry,22.93,consumption
+France,Beef,23.81,consumption
+France,Lamb & Goat,3.28,consumption
+France,Fish,22.91,consumption
+France,Eggs,13.13,consumption
+France,Milk - inc. cheese,241.31,consumption
+France,Wheat and Wheat Products,108.43,consumption
+France,Rice,4.88,consumption
+France,Soybeans,0.05,consumption
+France,Nuts inc. Peanut Butter,5.39,consumption
+Canada,Pork,22.81,consumption
+Canada,Poultry,36.68,consumption
+Canada,Beef,30.25,consumption
+Canada,Lamb & Goat,0.97,consumption
+Canada,Fish,14.56,consumption
+Canada,Eggs,12.95,consumption
+Canada,Milk - inc. cheese,187.77,consumption
+Canada,Wheat and Wheat Products,84.96,consumption
+Canada,Rice,12.65,consumption
+Canada,Soybeans,0.94,consumption
+Canada,Nuts inc. Peanut Butter,8.01,consumption
+Norway,Pork,23.51,consumption
+Norway,Poultry,21.01,consumption
+Norway,Beef,19.83,consumption
+Norway,Lamb & Goat,5.34,consumption
+Norway,Fish,38.18,consumption
+Norway,Eggs,11.41,consumption
+Norway,Milk - inc. cheese,261.34,consumption
+Norway,Wheat and Wheat Products,97.12,consumption
+Norway,Rice,4.36,consumption
+Norway,Soybeans,0.11,consumption
+Norway,Nuts inc. Peanut Butter,5.28,consumption
+Hong Kong SAR. China,Pork,67.11,consumption
+Hong Kong SAR. China,Poultry,54.86,consumption
+Hong Kong SAR. China,Beef,25.82,consumption
+Hong Kong SAR. China,Lamb & Goat,2.22,consumption
+Hong Kong SAR. China,Fish,42.44,consumption
+Hong Kong SAR. China,Eggs,14.5,consumption
+Hong Kong SAR. China,Milk - inc. cheese,105.85,consumption
+Hong Kong SAR. China,Wheat and Wheat Products,53.14,consumption
+Hong Kong SAR. China,Rice,43.48,consumption
+Hong Kong SAR. China,Soybeans,2.79,consumption
+Hong Kong SAR. China,Nuts inc. Peanut Butter,13.81,consumption
+French Polynesia,Pork,14.75,consumption
+French Polynesia,Poultry,49.55,consumption
+French Polynesia,Beef,30.9,consumption
+French Polynesia,Lamb & Goat,2.83,consumption
+French Polynesia,Fish,38.95,consumption
+French Polynesia,Eggs,8.75,consumption
+French Polynesia,Milk - inc. cheese,93.56,consumption
+French Polynesia,Wheat and Wheat Products,68.67,consumption
+French Polynesia,Rice,35.59,consumption
+French Polynesia,Soybeans,0.77,consumption
+French Polynesia,Nuts inc. Peanut Butter,2.34,consumption
+Israel,Pork,1.99,consumption
+Israel,Poultry,62.5,consumption
+Israel,Beef,28.78,consumption
+Israel,Lamb & Goat,1.87,consumption
+Israel,Fish,22.18,consumption
+Israel,Eggs,11.35,consumption
+Israel,Milk - inc. cheese,193.6,consumption
+Israel,Wheat and Wheat Products,110.86,consumption
+Israel,Rice,16.81,consumption
+Israel,Soybeans,0.1,consumption
+Israel,Nuts inc. Peanut Butter,7.71,consumption
+Switzerland,Pork,31.49,consumption
+Switzerland,Poultry,16.38,consumption
+Switzerland,Beef,21.26,consumption
+Switzerland,Lamb & Goat,1.42,consumption
+Switzerland,Fish,13.48,consumption
+Switzerland,Eggs,10.53,consumption
+Switzerland,Milk - inc. cheese,318.69,consumption
+Switzerland,Wheat and Wheat Products,89.51,consumption
+Switzerland,Rice,2.43,consumption
+Switzerland,Soybeans,0.44,consumption
+Switzerland,Nuts inc. Peanut Butter,9.27,consumption
+Netherlands,Pork,36.36,consumption
+Netherlands,Poultry,23.9,consumption
+Netherlands,Beef,17.67,consumption
+Netherlands,Lamb & Goat,0.94,consumption
+Netherlands,Fish,18.64,consumption
+Netherlands,Eggs,14.03,consumption
+Netherlands,Milk - inc. cheese,341.47,consumption
+Netherlands,Wheat and Wheat Products,70.17,consumption
+Netherlands,Rice,2.93,consumption
+Netherlands,Soybeans,0.12,consumption
+Netherlands,Nuts inc. Peanut Butter,7.94,consumption
+Kuwait,Pork,0,consumption
+Kuwait,Poultry,53.61,consumption
+Kuwait,Beef,13.03,consumption
+Kuwait,Lamb & Goat,15.61,consumption
+Kuwait,Fish,11.99,consumption
+Kuwait,Eggs,12.6,consumption
+Kuwait,Milk - inc. cheese,157.66,consumption
+Kuwait,Wheat and Wheat Products,96.76,consumption
+Kuwait,Rice,43.83,consumption
+Kuwait,Soybeans,0.06,consumption
+Kuwait,Nuts inc. Peanut Butter,5.23,consumption
+United Kingdom,Pork,25.79,consumption
+United Kingdom,Poultry,31.55,consumption
+United Kingdom,Beef,18.12,consumption
+United Kingdom,Lamb & Goat,4.49,consumption
+United Kingdom,Fish,15.49,consumption
+United Kingdom,Eggs,11.08,consumption
+United Kingdom,Milk - inc. cheese,232.2,consumption
+United Kingdom,Wheat and Wheat Products,98.63,consumption
+United Kingdom,Rice,6.39,consumption
+United Kingdom,Soybeans,0.05,consumption
+United Kingdom,Nuts inc. Peanut Butter,4.18,consumption
+Austria,Pork,52.56,consumption
+Austria,Poultry,18.61,consumption
+Austria,Beef,17.14,consumption
+Austria,Lamb & Goat,1.16,consumption
+Austria,Fish,12.16,consumption
+Austria,Eggs,14.68,consumption
+Austria,Milk - inc. cheese,258.09,consumption
+Austria,Wheat and Wheat Products,81.1,consumption
+Austria,Rice,3.7,consumption
+Austria,Soybeans,2.06,consumption
+Austria,Nuts inc. Peanut Butter,7.88,consumption
+Oman,Pork,0.01,consumption
+Oman,Poultry,31.51,consumption
+Oman,Beef,15.1,consumption
+Oman,Lamb & Goat,12.87,consumption
+Oman,Fish,21.56,consumption
+Oman,Eggs,7.8,consumption
+Oman,Milk - inc. cheese,152.28,consumption
+Oman,Wheat and Wheat Products,64.1,consumption
+Oman,Rice,56.55,consumption
+Oman,Soybeans,0.21,consumption
+Oman,Nuts inc. Peanut Butter,1.68,consumption
+Italy,Pork,40.28,consumption
+Italy,Poultry,18.61,consumption
+Italy,Beef,18.6,consumption
+Italy,Lamb & Goat,0.92,consumption
+Italy,Fish,15.6,consumption
+Italy,Eggs,13.34,consumption
+Italy,Milk - inc. cheese,246.88,consumption
+Italy,Wheat and Wheat Products,146.37,consumption
+Italy,Rice,5.74,consumption
+Italy,Soybeans,0.01,consumption
+Italy,Nuts inc. Peanut Butter,7.63,consumption
+Bahamas,Pork,32.74,consumption
+Bahamas,Poultry,45.74,consumption
+Bahamas,Beef,19.92,consumption
+Bahamas,Lamb & Goat,5.22,consumption
+Bahamas,Fish,18.8,consumption
+Bahamas,Eggs,6.2,consumption
+Bahamas,Milk - inc. cheese,104.76,consumption
+Bahamas,Wheat and Wheat Products,39.98,consumption
+Bahamas,Rice,23.97,consumption
+Bahamas,Soybeans,0.09,consumption
+Bahamas,Nuts inc. Peanut Butter,4.03,consumption
+Portugal,Pork,37.91,consumption
+Portugal,Poultry,30.14,consumption
+Portugal,Beef,16.45,consumption
+Portugal,Lamb & Goat,2.38,consumption
+Portugal,Fish,45.39,consumption
+Portugal,Eggs,9.05,consumption
+Portugal,Milk - inc. cheese,205.04,consumption
+Portugal,Wheat and Wheat Products,94.3,consumption
+Portugal,Rice,14.86,consumption
+Portugal,Soybeans,0.01,consumption
+Portugal,Nuts inc. Peanut Butter,3.91,consumption
+Malta,Pork,34.24,consumption
+Malta,Poultry,26.4,consumption
+Malta,Beef,19.22,consumption
+Malta,Lamb & Goat,1.19,consumption
+Malta,Fish,24.58,consumption
+Malta,Eggs,11.64,consumption
+Malta,Milk - inc. cheese,190.06,consumption
+Malta,Wheat and Wheat Products,139.58,consumption
+Malta,Rice,4.96,consumption
+Malta,Soybeans,0.05,consumption
+Malta,Nuts inc. Peanut Butter,5.62,consumption
+Armenia,Pork,9.67,consumption
+Armenia,Poultry,13.35,consumption
+Armenia,Beef,19.66,consumption
+Armenia,Lamb & Goat,3.02,consumption
+Armenia,Fish,4.36,consumption
+Armenia,Eggs,11.69,consumption
+Armenia,Milk - inc. cheese,209.03,consumption
+Armenia,Wheat and Wheat Products,130.6,consumption
+Armenia,Rice,3.18,consumption
+Armenia,Soybeans,0,consumption
+Armenia,Nuts inc. Peanut Butter,2.55,consumption
+Slovenia,Pork,28.19,consumption
+Slovenia,Poultry,23.46,consumption
+Slovenia,Beef,18.43,consumption
+Slovenia,Lamb & Goat,0.79,consumption
+Slovenia,Fish,7.76,consumption
+Slovenia,Eggs,9.36,consumption
+Slovenia,Milk - inc. cheese,235.01,consumption
+Slovenia,Wheat and Wheat Products,103.43,consumption
+Slovenia,Rice,3.95,consumption
+Slovenia,Soybeans,0.75,consumption
+Slovenia,Nuts inc. Peanut Butter,5.28,consumption
+Chile,Pork,24.68,consumption
+Chile,Poultry,36.52,consumption
+Chile,Beef,23.86,consumption
+Chile,Lamb & Goat,0.42,consumption
+Chile,Fish,7.65,consumption
+Chile,Eggs,9.97,consumption
+Chile,Milk - inc. cheese,116.11,consumption
+Chile,Wheat and Wheat Products,104.74,consumption
+Chile,Rice,8.85,consumption
+Chile,Soybeans,0.04,consumption
+Chile,Nuts inc. Peanut Butter,2.22,consumption
+Venezuela,Pork,7.23,consumption
+Venezuela,Poultry,39.28,consumption
+Venezuela,Beef,25.89,consumption
+Venezuela,Lamb & Goat,0.32,consumption
+Venezuela,Fish,8.34,consumption
+Venezuela,Eggs,5.63,consumption
+Venezuela,Milk - inc. cheese,117.79,consumption
+Venezuela,Wheat and Wheat Products,49.17,consumption
+Venezuela,Rice,23.39,consumption
+Venezuela,Soybeans,0,consumption
+Venezuela,Nuts inc. Peanut Butter,0.35,consumption
+Belgium,Pork,38.65,consumption
+Belgium,Poultry,12.2,consumption
+Belgium,Beef,15.63,consumption
+Belgium,Lamb & Goat,1.32,consumption
+Belgium,Fish,18.97,consumption
+Belgium,Eggs,12.59,consumption
+Belgium,Milk - inc. cheese,236.19,consumption
+Belgium,Wheat and Wheat Products,111.91,consumption
+Belgium,Rice,8.61,consumption
+Belgium,Soybeans,0.07,consumption
+Belgium,Nuts inc. Peanut Butter,7.32,consumption
+Germany,Pork,51.81,consumption
+Germany,Poultry,17.75,consumption
+Germany,Beef,13.16,consumption
+Germany,Lamb & Goat,0.73,consumption
+Germany,Fish,11.16,consumption
+Germany,Eggs,12.2,consumption
+Germany,Milk - inc. cheese,258.7,consumption
+Germany,Wheat and Wheat Products,83.41,consumption
+Germany,Rice,3.34,consumption
+Germany,Soybeans,0.88,consumption
+Germany,Nuts inc. Peanut Butter,7.96,consumption
+Russia,Pork,25.66,consumption
+Russia,Poultry,27.5,consumption
+Russia,Beef,16.98,consumption
+Russia,Lamb & Goat,1.4,consumption
+Russia,Fish,20.82,consumption
+Russia,Eggs,15.43,consumption
+Russia,Milk - inc. cheese,163.57,consumption
+Russia,Wheat and Wheat Products,130.99,consumption
+Russia,Rice,4.71,consumption
+Russia,Soybeans,0.05,consumption
+Russia,Nuts inc. Peanut Butter,1.62,consumption
+Croatia,Pork,42.79,consumption
+Croatia,Poultry,8.52,consumption
+Croatia,Beef,12.41,consumption
+Croatia,Lamb & Goat,1.71,consumption
+Croatia,Fish,15.83,consumption
+Croatia,Eggs,8.48,consumption
+Croatia,Milk - inc. cheese,231.02,consumption
+Croatia,Wheat and Wheat Products,106.59,consumption
+Croatia,Rice,2.64,consumption
+Croatia,Soybeans,0,consumption
+Croatia,Nuts inc. Peanut Butter,3.88,consumption
+Belarus,Pork,40.37,consumption
+Belarus,Poultry,31.29,consumption
+Belarus,Beef,17.11,consumption
+Belarus,Lamb & Goat,0.11,consumption
+Belarus,Fish,15.75,consumption
+Belarus,Eggs,15.86,consumption
+Belarus,Milk - inc. cheese,133.73,consumption
+Belarus,Wheat and Wheat Products,60.48,consumption
+Belarus,Rice,3.17,consumption
+Belarus,Soybeans,0.3,consumption
+Belarus,Nuts inc. Peanut Butter,3.36,consumption
+Spain,Pork,48.92,consumption
+Spain,Poultry,28.63,consumption
+Spain,Beef,12.15,consumption
+Spain,Lamb & Goat,2.16,consumption
+Spain,Fish,28.83,consumption
+Spain,Eggs,13.32,consumption
+Spain,Milk - inc. cheese,164.29,consumption
+Spain,Wheat and Wheat Products,93.88,consumption
+Spain,Rice,8.32,consumption
+Spain,Soybeans,0.02,consumption
+Spain,Nuts inc. Peanut Butter,7.44,consumption
+Paraguay,Pork,26.24,consumption
+Paraguay,Poultry,6.39,consumption
+Paraguay,Beef,19.81,consumption
+Paraguay,Lamb & Goat,0.56,consumption
+Paraguay,Fish,3.6,consumption
+Paraguay,Eggs,18.83,consumption
+Paraguay,Milk - inc. cheese,75.72,consumption
+Paraguay,Wheat and Wheat Products,31.51,consumption
+Paraguay,Rice,4.91,consumption
+Paraguay,Soybeans,0,consumption
+Paraguay,Nuts inc. Peanut Butter,1.6,consumption
+New Caledonia,Pork,19.9,consumption
+New Caledonia,Poultry,44.36,consumption
+New Caledonia,Beef,16.07,consumption
+New Caledonia,Lamb & Goat,1.95,consumption
+New Caledonia,Fish,19.38,consumption
+New Caledonia,Eggs,8.85,consumption
+New Caledonia,Milk - inc. cheese,108,consumption
+New Caledonia,Wheat and Wheat Products,81.75,consumption
+New Caledonia,Rice,17.47,consumption
+New Caledonia,Soybeans,0.55,consumption
+New Caledonia,Nuts inc. Peanut Butter,2.96,consumption
+South Africa,Pork,4.16,consumption
+South Africa,Poultry,37.57,consumption
+South Africa,Beef,18.03,consumption
+South Africa,Lamb & Goat,4.28,consumption
+South Africa,Fish,5.56,consumption
+South Africa,Eggs,7.21,consumption
+South Africa,Milk - inc. cheese,55.75,consumption
+South Africa,Wheat and Wheat Products,60.13,consumption
+South Africa,Rice,17.41,consumption
+South Africa,Soybeans,1.27,consumption
+South Africa,Nuts inc. Peanut Butter,1.04,consumption
+Barbados,Pork,8.3,consumption
+Barbados,Poultry,42.62,consumption
+Barbados,Beef,13.13,consumption
+Barbados,Lamb & Goat,4.08,consumption
+Barbados,Fish,37.41,consumption
+Barbados,Eggs,9.61,consumption
+Barbados,Milk - inc. cheese,110.48,consumption
+Barbados,Wheat and Wheat Products,65.71,consumption
+Barbados,Rice,15.66,consumption
+Barbados,Soybeans,0.1,consumption
+Barbados,Nuts inc. Peanut Butter,4.16,consumption
+Lithuania,Pork,45.67,consumption
+Lithuania,Poultry,26.84,consumption
+Lithuania,Beef,4.49,consumption
+Lithuania,Lamb & Goat,0.24,consumption
+Lithuania,Fish,42.39,consumption
+Lithuania,Eggs,13.11,consumption
+Lithuania,Milk - inc. cheese,295.46,consumption
+Lithuania,Wheat and Wheat Products,121.59,consumption
+Lithuania,Rice,3.07,consumption
+Lithuania,Soybeans,0.02,consumption
+Lithuania,Nuts inc. Peanut Butter,2.13,consumption
+Turkey,Pork,0.01,consumption
+Turkey,Poultry,18.78,consumption
+Turkey,Beef,11.64,consumption
+Turkey,Lamb & Goat,4.68,consumption
+Turkey,Fish,5.58,consumption
+Turkey,Eggs,8.2,consumption
+Turkey,Milk - inc. cheese,193.94,consumption
+Turkey,Wheat and Wheat Products,169.96,consumption
+Turkey,Rice,10.74,consumption
+Turkey,Soybeans,1.71,consumption
+Turkey,Nuts inc. Peanut Butter,7.97,consumption
+Estonia,Pork,29.68,consumption
+Estonia,Poultry,21.11,consumption
+Estonia,Beef,7.19,consumption
+Estonia,Lamb & Goat,0.44,consumption
+Estonia,Fish,12.78,consumption
+Estonia,Eggs,12.66,consumption
+Estonia,Milk - inc. cheese,284.85,consumption
+Estonia,Wheat and Wheat Products,89.36,consumption
+Estonia,Rice,2.56,consumption
+Estonia,Soybeans,0.04,consumption
+Estonia,Nuts inc. Peanut Butter,4.29,consumption
+Mexico,Pork,15.23,consumption
+Mexico,Poultry,30.12,consumption
+Mexico,Beef,15.33,consumption
+Mexico,Lamb & Goat,0.89,consumption
+Mexico,Fish,7.56,consumption
+Mexico,Eggs,18.34,consumption
+Mexico,Milk - inc. cheese,111.87,consumption
+Mexico,Wheat and Wheat Products,35.21,consumption
+Mexico,Rice,5.64,consumption
+Mexico,Soybeans,0.02,consumption
+Mexico,Nuts inc. Peanut Butter,2.51,consumption
+Costa Rica,Pork,10.28,consumption
+Costa Rica,Poultry,24.47,consumption
+Costa Rica,Beef,15.23,consumption
+Costa Rica,Lamb & Goat,0.02,consumption
+Costa Rica,Fish,11.32,consumption
+Costa Rica,Eggs,10.55,consumption
+Costa Rica,Milk - inc. cheese,183.28,consumption
+Costa Rica,Wheat and Wheat Products,39.31,consumption
+Costa Rica,Rice,45.69,consumption
+Costa Rica,Soybeans,1.54,consumption
+Costa Rica,Nuts inc. Peanut Butter,1.38,consumption
+Bolivia,Pork,8.89,consumption
+Bolivia,Poultry,34.31,consumption
+Bolivia,Beef,19.78,consumption
+Bolivia,Lamb & Goat,1.72,consumption
+Bolivia,Fish,2.18,consumption
+Bolivia,Eggs,5.18,consumption
+Bolivia,Milk - inc. cheese,46.04,consumption
+Bolivia,Wheat and Wheat Products,49.99,consumption
+Bolivia,Rice,26.99,consumption
+Bolivia,Soybeans,0.01,consumption
+Bolivia,Nuts inc. Peanut Butter,9.16,consumption
+Ecuador,Pork,14.44,consumption
+Ecuador,Poultry,21.85,consumption
+Ecuador,Beef,16.61,consumption
+Ecuador,Lamb & Goat,0.44,consumption
+Ecuador,Fish,5.17,consumption
+Ecuador,Eggs,8.01,consumption
+Ecuador,Milk - inc. cheese,139.6,consumption
+Ecuador,Wheat and Wheat Products,39.19,consumption
+Ecuador,Rice,45.07,consumption
+Ecuador,Soybeans,0,consumption
+Ecuador,Nuts inc. Peanut Butter,0.98,consumption
+Panama,Pork,13.48,consumption
+Panama,Poultry,30.81,consumption
+Panama,Beef,20.4,consumption
+Panama,Lamb & Goat,0.01,consumption
+Panama,Fish,11.05,consumption
+Panama,Eggs,4.53,consumption
+Panama,Milk - inc. cheese,70.29,consumption
+Panama,Wheat and Wheat Products,38.96,consumption
+Panama,Rice,66.42,consumption
+Panama,Soybeans,3.53,consumption
+Panama,Nuts inc. Peanut Butter,1.05,consumption
+Czech Republic,Pork,41.17,consumption
+Czech Republic,Poultry,19.09,consumption
+Czech Republic,Beef,8.15,consumption
+Czech Republic,Lamb & Goat,0.34,consumption
+Czech Republic,Fish,8.25,consumption
+Czech Republic,Eggs,11.66,consumption
+Czech Republic,Milk - inc. cheese,195.2,consumption
+Czech Republic,Wheat and Wheat Products,92.67,consumption
+Czech Republic,Rice,4.79,consumption
+Czech Republic,Soybeans,0.82,consumption
+Czech Republic,Nuts inc. Peanut Butter,2.47,consumption
+Romania,Pork,25.31,consumption
+Romania,Poultry,15.38,consumption
+Romania,Beef,4.78,consumption
+Romania,Lamb & Goat,3.41,consumption
+Romania,Fish,6.07,consumption
+Romania,Eggs,12.94,consumption
+Romania,Milk - inc. cheese,238.33,consumption
+Romania,Wheat and Wheat Products,134.87,consumption
+Romania,Rice,2.59,consumption
+Romania,Soybeans,0.01,consumption
+Romania,Nuts inc. Peanut Butter,1.8,consumption
+Colombia,Pork,6.51,consumption
+Colombia,Poultry,27.57,consumption
+Colombia,Beef,16.36,consumption
+Colombia,Lamb & Goat,0.21,consumption
+Colombia,Fish,6.01,consumption
+Colombia,Eggs,10.78,consumption
+Colombia,Milk - inc. cheese,108.47,consumption
+Colombia,Wheat and Wheat Products,29.79,consumption
+Colombia,Rice,28.02,consumption
+Colombia,Soybeans,0.89,consumption
+Colombia,Nuts inc. Peanut Butter,0.42,consumption
+Maldives,Pork,1.22,consumption
+Maldives,Poultry,18.47,consumption
+Maldives,Beef,9.44,consumption
+Maldives,Lamb & Goat,0.7,consumption
+Maldives,Fish,179.71,consumption
+Maldives,Eggs,10.79,consumption
+Maldives,Milk - inc. cheese,111.47,consumption
+Maldives,Wheat and Wheat Products,77.77,consumption
+Maldives,Rice,50.73,consumption
+Maldives,Soybeans,0.2,consumption
+Maldives,Nuts inc. Peanut Butter,15.83,consumption
+Cyprus,Pork,38.38,consumption
+Cyprus,Poultry,24.45,consumption
+Cyprus,Beef,5.79,consumption
+Cyprus,Lamb & Goat,5.05,consumption
+Cyprus,Fish,14.86,consumption
+Cyprus,Eggs,8.98,consumption
+Cyprus,Milk - inc. cheese,113.31,consumption
+Cyprus,Wheat and Wheat Products,83.25,consumption
+Cyprus,Rice,4.94,consumption
+Cyprus,Soybeans,0.04,consumption
+Cyprus,Nuts inc. Peanut Butter,4.6,consumption
+Serbia,Pork,32.04,consumption
+Serbia,Poultry,10.64,consumption
+Serbia,Beef,7.05,consumption
+Serbia,Lamb & Goat,3.56,consumption
+Serbia,Fish,5.59,consumption
+Serbia,Eggs,8.89,consumption
+Serbia,Milk - inc. cheese,148.53,consumption
+Serbia,Wheat and Wheat Products,105.88,consumption
+Serbia,Rice,1.22,consumption
+Serbia,Soybeans,0,consumption
+Serbia,Nuts inc. Peanut Butter,3.31,consumption
+United Arab Emirates,Pork,0,consumption
+United Arab Emirates,Poultry,41.04,consumption
+United Arab Emirates,Beef,5.64,consumption
+United Arab Emirates,Lamb & Goat,9.08,consumption
+United Arab Emirates,Fish,20.41,consumption
+United Arab Emirates,Eggs,8.23,consumption
+United Arab Emirates,Milk - inc. cheese,132.66,consumption
+United Arab Emirates,Wheat and Wheat Products,101.29,consumption
+United Arab Emirates,Rice,56.25,consumption
+United Arab Emirates,Soybeans,0.08,consumption
+United Arab Emirates,Nuts inc. Peanut Butter,23.03,consumption
+Algeria,Pork,0,consumption
+Algeria,Poultry,7.42,consumption
+Algeria,Beef,5.6,consumption
+Algeria,Lamb & Goat,7.69,consumption
+Algeria,Fish,3.74,consumption
+Algeria,Eggs,8.06,consumption
+Algeria,Milk - inc. cheese,141.53,consumption
+Algeria,Wheat and Wheat Products,185.42,consumption
+Algeria,Rice,2.97,consumption
+Algeria,Soybeans,0,consumption
+Algeria,Nuts inc. Peanut Butter,2.08,consumption
+Ukraine,Pork,20.56,consumption
+Ukraine,Poultry,24.23,consumption
+Ukraine,Beef,8.96,consumption
+Ukraine,Lamb & Goat,0.41,consumption
+Ukraine,Fish,15.23,consumption
+Ukraine,Eggs,18.01,consumption
+Ukraine,Milk - inc. cheese,145.03,consumption
+Ukraine,Wheat and Wheat Products,105.15,consumption
+Ukraine,Rice,3,consumption
+Ukraine,Soybeans,0.02,consumption
+Ukraine,Nuts inc. Peanut Butter,2.68,consumption
+Pakistan,Pork,0,consumption
+Pakistan,Poultry,5.01,consumption
+Pakistan,Beef,8.82,consumption
+Pakistan,Lamb & Goat,2.46,consumption
+Pakistan,Fish,1.87,consumption
+Pakistan,Eggs,2.95,consumption
+Pakistan,Milk - inc. cheese,183.13,consumption
+Pakistan,Wheat and Wheat Products,113.63,consumption
+Pakistan,Rice,12.25,consumption
+Pakistan,Soybeans,0,consumption
+Pakistan,Nuts inc. Peanut Butter,0.83,consumption
+Swaziland,Pork,2.43,consumption
+Swaziland,Poultry,6.18,consumption
+Swaziland,Beef,15.1,consumption
+Swaziland,Lamb & Goat,1.94,consumption
+Swaziland,Fish,1.26,consumption
+Swaziland,Eggs,1.5,consumption
+Swaziland,Milk - inc. cheese,56.6,consumption
+Swaziland,Wheat and Wheat Products,37.15,consumption
+Swaziland,Rice,21.15,consumption
+Swaziland,Soybeans,0.55,consumption
+Swaziland,Nuts inc. Peanut Butter,6.44,consumption
+Latvia,Pork,34.96,consumption
+Latvia,Poultry,20.53,consumption
+Latvia,Beef,5.11,consumption
+Latvia,Lamb & Goat,0.34,consumption
+Latvia,Fish,21.3,consumption
+Latvia,Eggs,14.03,consumption
+Latvia,Milk - inc. cheese,174.11,consumption
+Latvia,Wheat and Wheat Products,72.13,consumption
+Latvia,Rice,2.21,consumption
+Latvia,Soybeans,0.04,consumption
+Latvia,Nuts inc. Peanut Butter,3.78,consumption
+Bosnia and Herzegovina,Pork,9.38,consumption
+Bosnia and Herzegovina,Poultry,13.17,consumption
+Bosnia and Herzegovina,Beef,9.12,consumption
+Bosnia and Herzegovina,Lamb & Goat,0.47,consumption
+Bosnia and Herzegovina,Fish,4.06,consumption
+Bosnia and Herzegovina,Eggs,4.49,consumption
+Bosnia and Herzegovina,Milk - inc. cheese,174.03,consumption
+Bosnia and Herzegovina,Wheat and Wheat Products,93.56,consumption
+Bosnia and Herzegovina,Rice,1.88,consumption
+Bosnia and Herzegovina,Soybeans,1.48,consumption
+Bosnia and Herzegovina,Nuts inc. Peanut Butter,2,consumption
+Fiji,Pork,4.31,consumption
+Fiji,Poultry,20.26,consumption
+Fiji,Beef,8.96,consumption
+Fiji,Lamb & Goat,5.9,consumption
+Fiji,Fish,35.01,consumption
+Fiji,Eggs,6.44,consumption
+Fiji,Milk - inc. cheese,40.2,consumption
+Fiji,Wheat and Wheat Products,84.22,consumption
+Fiji,Rice,45.62,consumption
+Fiji,Soybeans,0.3,consumption
+Fiji,Nuts inc. Peanut Butter,1.3,consumption
+South Korea,Pork,32.76,consumption
+South Korea,Poultry,16,consumption
+South Korea,Beef,14.53,consumption
+South Korea,Lamb & Goat,0.14,consumption
+South Korea,Fish,33.09,consumption
+South Korea,Eggs,11.24,consumption
+South Korea,Milk - inc. cheese,29.05,consumption
+South Korea,Wheat and Wheat Products,50.84,consumption
+South Korea,Rice,85.18,consumption
+South Korea,Soybeans,8.35,consumption
+South Korea,Nuts inc. Peanut Butter,4.88,consumption
+Poland,Pork,46.19,consumption
+Poland,Poultry,27.41,consumption
+Poland,Beef,2.32,consumption
+Poland,Lamb & Goat,0.02,consumption
+Poland,Fish,10.49,consumption
+Poland,Eggs,7.53,consumption
+Poland,Milk - inc. cheese,205.39,consumption
+Poland,Wheat and Wheat Products,108.83,consumption
+Poland,Rice,0.95,consumption
+Poland,Soybeans,0.06,consumption
+Poland,Nuts inc. Peanut Butter,2.23,consumption
+Saudi Arabia,Pork,0,consumption
+Saudi Arabia,Poultry,49.05,consumption
+Saudi Arabia,Beef,6.45,consumption
+Saudi Arabia,Lamb & Goat,6.54,consumption
+Saudi Arabia,Fish,11.99,consumption
+Saudi Arabia,Eggs,5.37,consumption
+Saudi Arabia,Milk - inc. cheese,83.65,consumption
+Saudi Arabia,Wheat and Wheat Products,89.47,consumption
+Saudi Arabia,Rice,36.02,consumption
+Saudi Arabia,Soybeans,0.05,consumption
+Saudi Arabia,Nuts inc. Peanut Butter,3.23,consumption
+Botswana,Pork,0.74,consumption
+Botswana,Poultry,5.33,consumption
+Botswana,Beef,7.85,consumption
+Botswana,Lamb & Goat,3.76,consumption
+Botswana,Fish,3.98,consumption
+Botswana,Eggs,1.95,consumption
+Botswana,Milk - inc. cheese,117.74,consumption
+Botswana,Wheat and Wheat Products,38.2,consumption
+Botswana,Rice,7.06,consumption
+Botswana,Soybeans,1.16,consumption
+Botswana,Nuts inc. Peanut Butter,1.08,consumption
+Macedonia,Pork,10.35,consumption
+Macedonia,Poultry,18.77,consumption
+Macedonia,Beef,7.69,consumption
+Macedonia,Lamb & Goat,0.94,consumption
+Macedonia,Fish,5.47,consumption
+Macedonia,Eggs,6.38,consumption
+Macedonia,Milk - inc. cheese,157.93,consumption
+Macedonia,Wheat and Wheat Products,104.8,consumption
+Macedonia,Rice,2.81,consumption
+Macedonia,Soybeans,0.46,consumption
+Macedonia,Nuts inc. Peanut Butter,5.87,consumption
+Hungary,Pork,34.93,consumption
+Hungary,Poultry,23.78,consumption
+Hungary,Beef,4.96,consumption
+Hungary,Lamb & Goat,0.11,consumption
+Hungary,Fish,4.93,consumption
+Hungary,Eggs,12.45,consumption
+Hungary,Milk - inc. cheese,159.05,consumption
+Hungary,Wheat and Wheat Products,109.98,consumption
+Hungary,Rice,2.15,consumption
+Hungary,Soybeans,0.01,consumption
+Hungary,Nuts inc. Peanut Butter,0.64,consumption
+Trinidad and Tobago,Pork,8.92,consumption
+Trinidad and Tobago,Poultry,58.27,consumption
+Trinidad and Tobago,Beef,6.13,consumption
+Trinidad and Tobago,Lamb & Goat,2.79,consumption
+Trinidad and Tobago,Fish,20.54,consumption
+Trinidad and Tobago,Eggs,4.2,consumption
+Trinidad and Tobago,Milk - inc. cheese,103.8,consumption
+Trinidad and Tobago,Wheat and Wheat Products,90.17,consumption
+Trinidad and Tobago,Rice,16.38,consumption
+Trinidad and Tobago,Soybeans,0.04,consumption
+Trinidad and Tobago,Nuts inc. Peanut Butter,3.78,consumption
+Tunisia,Pork,0,consumption
+Tunisia,Poultry,18.5,consumption
+Tunisia,Beef,5.53,consumption
+Tunisia,Lamb & Goat,5.34,consumption
+Tunisia,Fish,12.63,consumption
+Tunisia,Eggs,7.67,consumption
+Tunisia,Milk - inc. cheese,114.47,consumption
+Tunisia,Wheat and Wheat Products,197.5,consumption
+Tunisia,Rice,1.07,consumption
+Tunisia,Soybeans,1.88,consumption
+Tunisia,Nuts inc. Peanut Butter,6.34,consumption
+Egypt,Pork,0.02,consumption
+Egypt,Poultry,14.43,consumption
+Egypt,Beef,12.88,consumption
+Egypt,Lamb & Goat,1.58,consumption
+Egypt,Fish,21.46,consumption
+Egypt,Eggs,4.59,consumption
+Egypt,Milk - inc. cheese,59.46,consumption
+Egypt,Wheat and Wheat Products,146.83,consumption
+Egypt,Rice,39.77,consumption
+Egypt,Soybeans,0.64,consumption
+Egypt,Nuts inc. Peanut Butter,1.82,consumption
+Mauritius,Pork,4.08,consumption
+Mauritius,Poultry,38.51,consumption
+Mauritius,Beef,5.99,consumption
+Mauritius,Lamb & Goat,4.08,consumption
+Mauritius,Fish,19.66,consumption
+Mauritius,Eggs,6.32,consumption
+Mauritius,Milk - inc. cheese,117.27,consumption
+Mauritius,Wheat and Wheat Products,114.02,consumption
+Mauritius,Rice,45.56,consumption
+Mauritius,Soybeans,0.3,consumption
+Mauritius,Nuts inc. Peanut Butter,2.33,consumption
+Bulgaria,Pork,26.26,consumption
+Bulgaria,Poultry,20.68,consumption
+Bulgaria,Beef,3.84,consumption
+Bulgaria,Lamb & Goat,1.63,consumption
+Bulgaria,Fish,6.24,consumption
+Bulgaria,Eggs,8.36,consumption
+Bulgaria,Milk - inc. cheese,155.71,consumption
+Bulgaria,Wheat and Wheat Products,121.17,consumption
+Bulgaria,Rice,2.24,consumption
+Bulgaria,Soybeans,0.04,consumption
+Bulgaria,Nuts inc. Peanut Butter,2.26,consumption
+Morocco,Pork,0.01,consumption
+Morocco,Poultry,20.77,consumption
+Morocco,Beef,8.04,consumption
+Morocco,Lamb & Goat,4.36,consumption
+Morocco,Fish,17.44,consumption
+Morocco,Eggs,6.68,consumption
+Morocco,Milk - inc. cheese,54.68,consumption
+Morocco,Wheat and Wheat Products,179.7,consumption
+Morocco,Rice,1.1,consumption
+Morocco,Soybeans,0,consumption
+Morocco,Nuts inc. Peanut Butter,3.23,consumption
+Slovakia,Pork,31.78,consumption
+Slovakia,Poultry,15.13,consumption
+Slovakia,Beef,5.19,consumption
+Slovakia,Lamb & Goat,0.16,consumption
+Slovakia,Fish,8.39,consumption
+Slovakia,Eggs,16.05,consumption
+Slovakia,Milk - inc. cheese,143.14,consumption
+Slovakia,Wheat and Wheat Products,123.62,consumption
+Slovakia,Rice,2.88,consumption
+Slovakia,Soybeans,0.02,consumption
+Slovakia,Nuts inc. Peanut Butter,3.7,consumption
+Niger,Pork,0.09,consumption
+Niger,Poultry,1.08,consumption
+Niger,Beef,8.97,consumption
+Niger,Lamb & Goat,4.17,consumption
+Niger,Fish,2.7,consumption
+Niger,Eggs,0.3,consumption
+Niger,Milk - inc. cheese,58.92,consumption
+Niger,Wheat and Wheat Products,4.79,consumption
+Niger,Rice,13.17,consumption
+Niger,Soybeans,0,consumption
+Niger,Nuts inc. Peanut Butter,6.95,consumption
+Kenya,Pork,0.29,consumption
+Kenya,Poultry,0.47,consumption
+Kenya,Beef,9.54,consumption
+Kenya,Lamb & Goat,1.86,consumption
+Kenya,Fish,4.27,consumption
+Kenya,Eggs,1.84,consumption
+Kenya,Milk - inc. cheese,94.86,consumption
+Kenya,Wheat and Wheat Products,34.65,consumption
+Kenya,Rice,12.94,consumption
+Kenya,Soybeans,0.2,consumption
+Kenya,Nuts inc. Peanut Butter,1.64,consumption
+Jordan,Pork,0.02,consumption
+Jordan,Poultry,33.39,consumption
+Jordan,Beef,5.61,consumption
+Jordan,Lamb & Goat,5.68,consumption
+Jordan,Fish,5.13,consumption
+Jordan,Eggs,3.92,consumption
+Jordan,Milk - inc. cheese,77.68,consumption
+Jordan,Wheat and Wheat Products,136.74,consumption
+Jordan,Rice,19.67,consumption
+Jordan,Soybeans,0.02,consumption
+Jordan,Nuts inc. Peanut Butter,3.56,consumption
+Japan,Pork,20.62,consumption
+Japan,Poultry,19.42,consumption
+Japan,Beef,9.15,consumption
+Japan,Lamb & Goat,0.14,consumption
+Japan,Fish,31.1,consumption
+Japan,Eggs,19.15,consumption
+Japan,Milk - inc. cheese,72.06,consumption
+Japan,Wheat and Wheat Products,45.04,consumption
+Japan,Rice,59.85,consumption
+Japan,Soybeans,7.34,consumption
+Japan,Nuts inc. Peanut Butter,2.59,consumption
+Georgia,Pork,8.93,consumption
+Georgia,Poultry,12.28,consumption
+Georgia,Beef,6.04,consumption
+Georgia,Lamb & Goat,0.63,consumption
+Georgia,Fish,10.42,consumption
+Georgia,Eggs,6.12,consumption
+Georgia,Milk - inc. cheese,149.26,consumption
+Georgia,Wheat and Wheat Products,163.43,consumption
+Georgia,Rice,2.64,consumption
+Georgia,Soybeans,0,consumption
+Georgia,Nuts inc. Peanut Butter,2.47,consumption
+Grenada,Pork,11.52,consumption
+Grenada,Poultry,43.51,consumption
+Grenada,Beef,3.46,consumption
+Grenada,Lamb & Goat,1.25,consumption
+Grenada,Fish,27.95,consumption
+Grenada,Eggs,10.34,consumption
+Grenada,Milk - inc. cheese,86.88,consumption
+Grenada,Wheat and Wheat Products,59.59,consumption
+Grenada,Rice,9.56,consumption
+Grenada,Soybeans,0.01,consumption
+Grenada,Nuts inc. Peanut Butter,0.18,consumption
+El Salvador,Pork,3.23,consumption
+El Salvador,Poultry,19.84,consumption
+El Salvador,Beef,5.95,consumption
+El Salvador,Lamb & Goat,0.02,consumption
+El Salvador,Fish,6.25,consumption
+El Salvador,Eggs,9.51,consumption
+El Salvador,Milk - inc. cheese,124.34,consumption
+El Salvador,Wheat and Wheat Products,28.19,consumption
+El Salvador,Rice,10.53,consumption
+El Salvador,Soybeans,0.8,consumption
+El Salvador,Nuts inc. Peanut Butter,1.1,consumption
+Cuba,Pork,19.82,consumption
+Cuba,Poultry,20.15,consumption
+Cuba,Beef,6.39,consumption
+Cuba,Lamb & Goat,1.24,consumption
+Cuba,Fish,4.76,consumption
+Cuba,Eggs,9.82,consumption
+Cuba,Milk - inc. cheese,99.94,consumption
+Cuba,Wheat and Wheat Products,54.62,consumption
+Cuba,Rice,67.7,consumption
+Cuba,Soybeans,6.34,consumption
+Cuba,Nuts inc. Peanut Butter,0.23,consumption
+China,Pork,38.43,consumption
+China,Poultry,13.2,consumption
+China,Beef,5.12,consumption
+China,Lamb & Goat,3.13,consumption
+China,Fish,21.01,consumption
+China,Eggs,18.76,consumption
+China,Milk - inc. cheese,32.66,consumption
+China,Wheat and Wheat Products,63.36,consumption
+China,Rice,78.18,consumption
+China,Soybeans,3.66,consumption
+China,Nuts inc. Peanut Butter,6.39,consumption
+Honduras,Pork,6.48,consumption
+Honduras,Poultry,20.29,consumption
+Honduras,Beef,7.19,consumption
+Honduras,Lamb & Goat,0.04,consumption
+Honduras,Fish,2.7,consumption
+Honduras,Eggs,5.19,consumption
+Honduras,Milk - inc. cheese,91.33,consumption
+Honduras,Wheat and Wheat Products,37.36,consumption
+Honduras,Rice,14.42,consumption
+Honduras,Soybeans,0.01,consumption
+Honduras,Nuts inc. Peanut Butter,0.75,consumption
+Taiwan. ROC,Pork,39.37,consumption
+Taiwan. ROC,Poultry,32.13,consumption
+Taiwan. ROC,Beef,5.21,consumption
+Taiwan. ROC,Lamb & Goat,0.92,consumption
+Taiwan. ROC,Fish,18.29,consumption
+Taiwan. ROC,Eggs,13.08,consumption
+Taiwan. ROC,Milk - inc. cheese,41.72,consumption
+Taiwan. ROC,Wheat and Wheat Products,50.92,consumption
+Taiwan. ROC,Rice,45.85,consumption
+Taiwan. ROC,Soybeans,16.95,consumption
+Taiwan. ROC,Nuts inc. Peanut Butter,9.06,consumption
+Angola,Pork,8.89,consumption
+Angola,Poultry,17.33,consumption
+Angola,Beef,8.42,consumption
+Angola,Lamb & Goat,1.08,consumption
+Angola,Fish,15.24,consumption
+Angola,Eggs,1.11,consumption
+Angola,Milk - inc. cheese,12.3,consumption
+Angola,Wheat and Wheat Products,40.72,consumption
+Angola,Rice,8.12,consumption
+Angola,Soybeans,0.52,consumption
+Angola,Nuts inc. Peanut Butter,2.26,consumption
+Jamaica,Pork,3.99,consumption
+Jamaica,Poultry,52.51,consumption
+Jamaica,Beef,3.97,consumption
+Jamaica,Lamb & Goat,1.26,consumption
+Jamaica,Fish,21.95,consumption
+Jamaica,Eggs,2.27,consumption
+Jamaica,Milk - inc. cheese,91.13,consumption
+Jamaica,Wheat and Wheat Products,70.67,consumption
+Jamaica,Rice,23.45,consumption
+Jamaica,Soybeans,0,consumption
+Jamaica,Nuts inc. Peanut Butter,1.82,consumption
+Namibia,Pork,4.21,consumption
+Namibia,Poultry,12.19,consumption
+Namibia,Beef,3.75,consumption
+Namibia,Lamb & Goat,2.27,consumption
+Namibia,Fish,10.7,consumption
+Namibia,Eggs,1.63,consumption
+Namibia,Milk - inc. cheese,73.05,consumption
+Namibia,Wheat and Wheat Products,36.26,consumption
+Namibia,Rice,6.31,consumption
+Namibia,Soybeans,0.07,consumption
+Namibia,Nuts inc. Peanut Butter,0.71,consumption
+Belize,Pork,16.8,consumption
+Belize,Poultry,28.31,consumption
+Belize,Beef,4.86,consumption
+Belize,Lamb & Goat,0.14,consumption
+Belize,Fish,7.57,consumption
+Belize,Eggs,4.85,consumption
+Belize,Milk - inc. cheese,80.3,consumption
+Belize,Wheat and Wheat Products,54.06,consumption
+Belize,Rice,28.42,consumption
+Belize,Soybeans,1.88,consumption
+Belize,Nuts inc. Peanut Butter,5.58,consumption
+Malaysia,Pork,7.76,consumption
+Malaysia,Poultry,41.01,consumption
+Malaysia,Beef,6.52,consumption
+Malaysia,Lamb & Goat,0.94,consumption
+Malaysia,Fish,49.43,consumption
+Malaysia,Eggs,16.57,consumption
+Malaysia,Milk - inc. cheese,25.28,consumption
+Malaysia,Wheat and Wheat Products,51.04,consumption
+Malaysia,Rice,81.25,consumption
+Malaysia,Soybeans,0.04,consumption
+Malaysia,Nuts inc. Peanut Butter,2.9,consumption
+Zimbabwe,Pork,2.65,consumption
+Zimbabwe,Poultry,4.97,consumption
+Zimbabwe,Beef,7.37,consumption
+Zimbabwe,Lamb & Goat,0.96,consumption
+Zimbabwe,Fish,2.8,consumption
+Zimbabwe,Eggs,1.75,consumption
+Zimbabwe,Milk - inc. cheese,31.9,consumption
+Zimbabwe,Wheat and Wheat Products,31.31,consumption
+Zimbabwe,Rice,10.09,consumption
+Zimbabwe,Soybeans,0.54,consumption
+Zimbabwe,Nuts inc. Peanut Butter,2.22,consumption
+Guatemala,Pork,4.85,consumption
+Guatemala,Poultry,16.45,consumption
+Guatemala,Beef,5.6,consumption
+Guatemala,Lamb & Goat,0.23,consumption
+Guatemala,Fish,1.08,consumption
+Guatemala,Eggs,14.61,consumption
+Guatemala,Milk - inc. cheese,46.6,consumption
+Guatemala,Wheat and Wheat Products,35.9,consumption
+Guatemala,Rice,5.66,consumption
+Guatemala,Soybeans,0.32,consumption
+Guatemala,Nuts inc. Peanut Butter,2,consumption
+Uganda,Pork,3.37,consumption
+Uganda,Poultry,1.51,consumption
+Uganda,Beef,5.15,consumption
+Uganda,Lamb & Goat,1.25,consumption
+Uganda,Fish,12.5,consumption
+Uganda,Eggs,0.97,consumption
+Uganda,Milk - inc. cheese,37.27,consumption
+Uganda,Wheat and Wheat Products,10.14,consumption
+Uganda,Rice,4.64,consumption
+Uganda,Soybeans,0.01,consumption
+Uganda,Nuts inc. Peanut Butter,3.77,consumption
+Nepal,Pork,0.67,consumption
+Nepal,Poultry,1.56,consumption
+Nepal,Beef,7.89,consumption
+Nepal,Lamb & Goat,2.1,consumption
+Nepal,Fish,2.17,consumption
+Nepal,Eggs,1.42,consumption
+Nepal,Milk - inc. cheese,52.1,consumption
+Nepal,Wheat and Wheat Products,50.46,consumption
+Nepal,Rice,87.75,consumption
+Nepal,Soybeans,0.01,consumption
+Nepal,Nuts inc. Peanut Butter,2.42,consumption
+Iran,Pork,0,consumption
+Iran,Poultry,25.38,consumption
+Iran,Beef,3.58,consumption
+Iran,Lamb & Goat,3.69,consumption
+Iran,Fish,9.8,consumption
+Iran,Eggs,7.7,consumption
+Iran,Milk - inc. cheese,46.69,consumption
+Iran,Wheat and Wheat Products,153.31,consumption
+Iran,Rice,29.95,consumption
+Iran,Soybeans,0,consumption
+Iran,Nuts inc. Peanut Butter,12.16,consumption
+Tanzania,Pork,0.32,consumption
+Tanzania,Poultry,1.84,consumption
+Tanzania,Beef,6.09,consumption
+Tanzania,Lamb & Goat,1.28,consumption
+Tanzania,Fish,5.5,consumption
+Tanzania,Eggs,0.58,consumption
+Tanzania,Milk - inc. cheese,40.29,consumption
+Tanzania,Wheat and Wheat Products,15.94,consumption
+Tanzania,Rice,21.01,consumption
+Tanzania,Soybeans,0.04,consumption
+Tanzania,Nuts inc. Peanut Butter,5.94,consumption
+Senegal,Pork,0.94,consumption
+Senegal,Poultry,4.62,consumption
+Senegal,Beef,5.85,consumption
+Senegal,Lamb & Goat,3.19,consumption
+Senegal,Fish,22.94,consumption
+Senegal,Eggs,1.63,consumption
+Senegal,Milk - inc. cheese,16.86,consumption
+Senegal,Wheat and Wheat Products,37.32,consumption
+Senegal,Rice,72.29,consumption
+Senegal,Soybeans,0,consumption
+Senegal,Nuts inc. Peanut Butter,4.03,consumption
+Peru,Pork,3.85,consumption
+Peru,Poultry,11.72,consumption
+Peru,Beef,4.69,consumption
+Peru,Lamb & Goat,1,consumption
+Peru,Fish,15.74,consumption
+Peru,Eggs,8.76,consumption
+Peru,Milk - inc. cheese,62.15,consumption
+Peru,Wheat and Wheat Products,56.12,consumption
+Peru,Rice,48.92,consumption
+Peru,Soybeans,1.59,consumption
+Peru,Nuts inc. Peanut Butter,0.65,consumption
+Nicaragua,Pork,3.38,consumption
+Nicaragua,Poultry,21.31,consumption
+Nicaragua,Beef,4.73,consumption
+Nicaragua,Lamb & Goat,0.01,consumption
+Nicaragua,Fish,3.59,consumption
+Nicaragua,Eggs,4.9,consumption
+Nicaragua,Milk - inc. cheese,85.16,consumption
+Nicaragua,Wheat and Wheat Products,28.17,consumption
+Nicaragua,Rice,43.33,consumption
+Nicaragua,Soybeans,0.01,consumption
+Nicaragua,Nuts inc. Peanut Butter,2.36,consumption
+Vietnam,Pork,35,consumption
+Vietnam,Poultry,12.36,consumption
+Vietnam,Beef,7.44,consumption
+Vietnam,Lamb & Goat,0.14,consumption
+Vietnam,Fish,26.52,consumption
+Vietnam,Eggs,3.84,consumption
+Vietnam,Milk - inc. cheese,16.36,consumption
+Vietnam,Wheat and Wheat Products,10.49,consumption
+Vietnam,Rice,144.56,consumption
+Vietnam,Soybeans,5.75,consumption
+Vietnam,Nuts inc. Peanut Butter,6.28,consumption
+Ethiopia,Pork,0.02,consumption
+Ethiopia,Poultry,0.66,consumption
+Ethiopia,Beef,3.61,consumption
+Ethiopia,Lamb & Goat,1.57,consumption
+Ethiopia,Fish,0.24,consumption
+Ethiopia,Eggs,0.36,consumption
+Ethiopia,Milk - inc. cheese,44.14,consumption
+Ethiopia,Wheat and Wheat Products,31.26,consumption
+Ethiopia,Rice,2.25,consumption
+Ethiopia,Soybeans,0.45,consumption
+Ethiopia,Nuts inc. Peanut Butter,1.21,consumption
+Myanmar,Pork,11.31,consumption
+Myanmar,Poultry,21.87,consumption
+Myanmar,Beef,4.94,consumption
+Myanmar,Lamb & Goat,0.89,consumption
+Myanmar,Fish,54.26,consumption
+Myanmar,Eggs,6.45,consumption
+Myanmar,Milk - inc. cheese,31.48,consumption
+Myanmar,Wheat and Wheat Products,6.22,consumption
+Myanmar,Rice,132.8,consumption
+Myanmar,Soybeans,0.38,consumption
+Myanmar,Nuts inc. Peanut Butter,4.5,consumption
+Congo,Pork,2.39,consumption
+Congo,Poultry,13.02,consumption
+Congo,Beef,4.35,consumption
+Congo,Lamb & Goat,0.4,consumption
+Congo,Fish,26.22,consumption
+Congo,Eggs,0.6,consumption
+Congo,Milk - inc. cheese,10.69,consumption
+Congo,Wheat and Wheat Products,40.07,consumption
+Congo,Rice,16.51,consumption
+Congo,Soybeans,0,consumption
+Congo,Nuts inc. Peanut Butter,3.08,consumption
+Zambia,Pork,1.66,consumption
+Zambia,Poultry,3.29,consumption
+Zambia,Beef,4.76,consumption
+Zambia,Lamb & Goat,0.68,consumption
+Zambia,Fish,6.2,consumption
+Zambia,Eggs,3.32,consumption
+Zambia,Milk - inc. cheese,9.71,consumption
+Zambia,Wheat and Wheat Products,12.1,consumption
+Zambia,Rice,3.05,consumption
+Zambia,Soybeans,7.3,consumption
+Zambia,Nuts inc. Peanut Butter,5.04,consumption
+Cameroon,Pork,1.47,consumption
+Cameroon,Poultry,3.29,consumption
+Cameroon,Beef,4.17,consumption
+Cameroon,Lamb & Goat,1.4,consumption
+Cameroon,Fish,14.71,consumption
+Cameroon,Eggs,0.4,consumption
+Cameroon,Milk - inc. cheese,15.27,consumption
+Cameroon,Wheat and Wheat Products,22.6,consumption
+Cameroon,Rice,23.85,consumption
+Cameroon,Soybeans,0.64,consumption
+Cameroon,Nuts inc. Peanut Butter,9.29,consumption
+Madagascar,Pork,2.56,consumption
+Madagascar,Poultry,3.14,consumption
+Madagascar,Beef,7.51,consumption
+Madagascar,Lamb & Goat,0.57,consumption
+Madagascar,Fish,4.41,consumption
+Madagascar,Eggs,0.71,consumption
+Madagascar,Milk - inc. cheese,24.84,consumption
+Madagascar,Wheat and Wheat Products,9.01,consumption
+Madagascar,Rice,102.53,consumption
+Madagascar,Soybeans,0,consumption
+Madagascar,Nuts inc. Peanut Butter,0.35,consumption
+Malawi,Pork,5.45,consumption
+Malawi,Poultry,1.38,consumption
+Malawi,Beef,2.35,consumption
+Malawi,Lamb & Goat,2.07,consumption
+Malawi,Fish,7.33,consumption
+Malawi,Eggs,1.08,consumption
+Malawi,Milk - inc. cheese,7.98,consumption
+Malawi,Wheat and Wheat Products,11.77,consumption
+Malawi,Rice,4.75,consumption
+Malawi,Soybeans,1.76,consumption
+Malawi,Nuts inc. Peanut Butter,5.08,consumption
+Guinea,Pork,0.16,consumption
+Guinea,Poultry,1.83,consumption
+Guinea,Beef,6.26,consumption
+Guinea,Lamb & Goat,1.6,consumption
+Guinea,Fish,9.18,consumption
+Guinea,Eggs,1.95,consumption
+Guinea,Milk - inc. cheese,20.62,consumption
+Guinea,Wheat and Wheat Products,18.55,consumption
+Guinea,Rice,97.12,consumption
+Guinea,Soybeans,0,consumption
+Guinea,Nuts inc. Peanut Butter,4.14,consumption
+Nigeria,Pork,1.47,consumption
+Nigeria,Poultry,1.73,consumption
+Nigeria,Beef,2.33,consumption
+Nigeria,Lamb & Goat,2.72,consumption
+Nigeria,Fish,16.03,consumption
+Nigeria,Eggs,3.46,consumption
+Nigeria,Milk - inc. cheese,7.91,consumption
+Nigeria,Wheat and Wheat Products,20.82,consumption
+Nigeria,Rice,28.23,consumption
+Nigeria,Soybeans,2.6,consumption
+Nigeria,Nuts inc. Peanut Butter,6.93,consumption
+Rwanda,Pork,0.76,consumption
+Rwanda,Poultry,1.34,consumption
+Rwanda,Beef,2.53,consumption
+Rwanda,Lamb & Goat,1.93,consumption
+Rwanda,Fish,3.88,consumption
+Rwanda,Eggs,0.16,consumption
+Rwanda,Milk - inc. cheese,7.23,consumption
+Rwanda,Wheat and Wheat Products,11.34,consumption
+Rwanda,Rice,8.7,consumption
+Rwanda,Soybeans,1.93,consumption
+Rwanda,Nuts inc. Peanut Butter,0.58,consumption
+Philippines,Pork,18.4,consumption
+Philippines,Poultry,11.91,consumption
+Philippines,Beef,4.06,consumption
+Philippines,Lamb & Goat,0.56,consumption
+Philippines,Fish,28.51,consumption
+Philippines,Eggs,4.02,consumption
+Philippines,Milk - inc. cheese,15.66,consumption
+Philippines,Wheat and Wheat Products,23.12,consumption
+Philippines,Rice,119.44,consumption
+Philippines,Soybeans,0.03,consumption
+Philippines,Nuts inc. Peanut Butter,2.08,consumption
+Ghana,Pork,1.36,consumption
+Ghana,Poultry,8.63,consumption
+Ghana,Beef,1.09,consumption
+Ghana,Lamb & Goat,1.74,consumption
+Ghana,Fish,26.05,consumption
+Ghana,Eggs,1.21,consumption
+Ghana,Milk - inc. cheese,9.08,consumption
+Ghana,Wheat and Wheat Products,14.45,consumption
+Ghana,Rice,32.03,consumption
+Ghana,Soybeans,0.01,consumption
+Ghana,Nuts inc. Peanut Butter,5.56,consumption
+Togo,Pork,1.57,consumption
+Togo,Poultry,6.63,consumption
+Togo,Beef,1.53,consumption
+Togo,Lamb & Goat,1.58,consumption
+Togo,Fish,11.69,consumption
+Togo,Eggs,0.86,consumption
+Togo,Milk - inc. cheese,7.96,consumption
+Togo,Wheat and Wheat Products,12.91,consumption
+Togo,Rice,25.99,consumption
+Togo,Soybeans,0.01,consumption
+Togo,Nuts inc. Peanut Butter,3.59,consumption
+Gambia,Pork,0.18,consumption
+Gambia,Poultry,2.66,consumption
+Gambia,Beef,2.16,consumption
+Gambia,Lamb & Goat,0.71,consumption
+Gambia,Fish,23.13,consumption
+Gambia,Eggs,0.99,consumption
+Gambia,Milk - inc. cheese,45.71,consumption
+Gambia,Wheat and Wheat Products,37.91,consumption
+Gambia,Rice,61.84,consumption
+Gambia,Soybeans,0,consumption
+Gambia,Nuts inc. Peanut Butter,5.27,consumption
+India,Pork,0.28,consumption
+India,Poultry,1.88,consumption
+India,Beef,0.81,consumption
+India,Lamb & Goat,0.58,consumption
+India,Fish,4.71,consumption
+India,Eggs,2.58,consumption
+India,Milk - inc. cheese,84.5,consumption
+India,Wheat and Wheat Products,60.56,consumption
+India,Rice,69.49,consumption
+India,Soybeans,0.39,consumption
+India,Nuts inc. Peanut Butter,1.92,consumption
+Thailand,Pork,13,consumption
+Thailand,Poultry,13.69,consumption
+Thailand,Beef,2.56,consumption
+Thailand,Lamb & Goat,0.05,consumption
+Thailand,Fish,19.45,consumption
+Thailand,Eggs,12.35,consumption
+Thailand,Milk - inc. cheese,29.35,consumption
+Thailand,Wheat and Wheat Products,10.93,consumption
+Thailand,Rice,114.57,consumption
+Thailand,Soybeans,2.13,consumption
+Thailand,Nuts inc. Peanut Butter,1.5,consumption
+Mozambique,Pork,5.13,consumption
+Mozambique,Poultry,1.41,consumption
+Mozambique,Beef,1.04,consumption
+Mozambique,Lamb & Goat,0.9,consumption
+Mozambique,Fish,7.74,consumption
+Mozambique,Eggs,1.7,consumption
+Mozambique,Milk - inc. cheese,4.79,consumption
+Mozambique,Wheat and Wheat Products,14.65,consumption
+Mozambique,Rice,23.41,consumption
+Mozambique,Soybeans,0.03,consumption
+Mozambique,Nuts inc. Peanut Butter,2.61,consumption
+Cambodia,Pork,6.52,consumption
+Cambodia,Poultry,1.84,consumption
+Cambodia,Beef,4.85,consumption
+Cambodia,Lamb & Goat,0,consumption
+Cambodia,Fish,39.59,consumption
+Cambodia,Eggs,1.37,consumption
+Cambodia,Milk - inc. cheese,3.47,consumption
+Cambodia,Wheat and Wheat Products,2.74,consumption
+Cambodia,Rice,159.1,consumption
+Cambodia,Soybeans,4.33,consumption
+Cambodia,Nuts inc. Peanut Butter,1.25,consumption
+Sierra Leone,Pork,1.22,consumption
+Sierra Leone,Poultry,4.97,consumption
+Sierra Leone,Beef,1.99,consumption
+Sierra Leone,Lamb & Goat,0.65,consumption
+Sierra Leone,Fish,32.03,consumption
+Sierra Leone,Eggs,1.92,consumption
+Sierra Leone,Milk - inc. cheese,7,consumption
+Sierra Leone,Wheat and Wheat Products,8.72,consumption
+Sierra Leone,Rice,103.3,consumption
+Sierra Leone,Soybeans,0,consumption
+Sierra Leone,Nuts inc. Peanut Butter,5.57,consumption
+Sri Lanka,Pork,0.05,consumption
+Sri Lanka,Poultry,4.96,consumption
+Sri Lanka,Beef,1.38,consumption
+Sri Lanka,Lamb & Goat,0.09,consumption
+Sri Lanka,Fish,24.92,consumption
+Sri Lanka,Eggs,4.57,consumption
+Sri Lanka,Milk - inc. cheese,34.98,consumption
+Sri Lanka,Wheat and Wheat Products,37.01,consumption
+Sri Lanka,Rice,109.72,consumption
+Sri Lanka,Soybeans,0,consumption
+Sri Lanka,Nuts inc. Peanut Butter,1.09,consumption
+Indonesia,Pork,2.98,consumption
+Indonesia,Poultry,7.5,consumption
+Indonesia,Beef,2.59,consumption
+Indonesia,Lamb & Goat,0.46,consumption
+Indonesia,Fish,25.65,consumption
+Indonesia,Eggs,4.88,consumption
+Indonesia,Milk - inc. cheese,14.82,consumption
+Indonesia,Wheat and Wheat Products,25.45,consumption
+Indonesia,Rice,134.62,consumption
+Indonesia,Soybeans,1.12,consumption
+Indonesia,Nuts inc. Peanut Butter,4.92,consumption
+Liberia,Pork,4.01,consumption
+Liberia,Poultry,8.91,consumption
+Liberia,Beef,0.78,consumption
+Liberia,Lamb & Goat,0.48,consumption
+Liberia,Fish,4.13,consumption
+Liberia,Eggs,2.05,consumption
+Liberia,Milk - inc. cheese,3.04,consumption
+Liberia,Wheat and Wheat Products,10.95,consumption
+Liberia,Rice,94.75,consumption
+Liberia,Soybeans,0.63,consumption
+Liberia,Nuts inc. Peanut Butter,1.31,consumption
+Bangladesh,Pork,0,consumption
+Bangladesh,Poultry,1.4,consumption
+Bangladesh,Beef,1.28,consumption
+Bangladesh,Lamb & Goat,1.33,consumption
+Bangladesh,Fish,18.07,consumption
+Bangladesh,Eggs,2.08,consumption
+Bangladesh,Milk - inc. cheese,21.91,consumption
+Bangladesh,Wheat and Wheat Products,17.47,consumption
+Bangladesh,Rice,171.73,consumption
+Bangladesh,Soybeans,0.61,consumption
+Bangladesh,Nuts inc. Peanut Butter,0.72,consumption
+Argentina,Pork,37.2,co2_emmission
+Argentina,Poultry,41.53,co2_emmission
+Argentina,Beef,1712,co2_emmission
+Argentina,Lamb & Goat,54.63,co2_emmission
+Argentina,Fish,6.96,co2_emmission
+Argentina,Eggs,10.46,co2_emmission
+Argentina,Milk - inc. cheese,277.87,co2_emmission
+Argentina,Wheat and Wheat Products,19.66,co2_emmission
+Argentina,Rice,11.22,co2_emmission
+Argentina,Soybeans,0,co2_emmission
+Argentina,Nuts inc. Peanut Butter,0.87,co2_emmission
+Australia,Pork,85.44,co2_emmission
+Australia,Poultry,49.54,co2_emmission
+Australia,Beef,1044.85,co2_emmission
+Australia,Lamb & Goat,345.65,co2_emmission
+Australia,Fish,28.25,co2_emmission
+Australia,Eggs,7.82,co2_emmission
+Australia,Milk - inc. cheese,334.01,co2_emmission
+Australia,Wheat and Wheat Products,13.44,co2_emmission
+Australia,Rice,14.12,co2_emmission
+Australia,Soybeans,0.09,co2_emmission
+Australia,Nuts inc. Peanut Butter,15.45,co2_emmission
+Albania,Pork,38.51,co2_emmission
+Albania,Poultry,14.21,co2_emmission
+Albania,Beef,694.3,co2_emmission
+Albania,Lamb & Goat,536.5,co2_emmission
+Albania,Fish,6.15,co2_emmission
+Albania,Eggs,11.44,co2_emmission
+Albania,Milk - inc. cheese,432.62,co2_emmission
+Albania,Wheat and Wheat Products,26.44,co2_emmission
+Albania,Rice,9.96,co2_emmission
+Albania,Soybeans,0,co2_emmission
+Albania,Nuts inc. Peanut Butter,7.72,co2_emmission
+Iceland,Pork,76.77,co2_emmission
+Iceland,Poultry,28.86,co2_emmission
+Iceland,Beef,412.26,co2_emmission
+Iceland,Lamb & Goat,739.62,co2_emmission
+Iceland,Fish,118.81,co2_emmission
+Iceland,Eggs,7.57,co2_emmission
+Iceland,Milk - inc. cheese,321.66,co2_emmission
+Iceland,Wheat and Wheat Products,13.91,co2_emmission
+Iceland,Rice,4.98,co2_emmission
+Iceland,Soybeans,0.05,co2_emmission
+Iceland,Nuts inc. Peanut Butter,6.87,co2_emmission
+New Zealand,Pork,78.9,co2_emmission
+New Zealand,Poultry,37.58,co2_emmission
+New Zealand,Beef,693.99,co2_emmission
+New Zealand,Lamb & Goat,662.23,co2_emmission
+New Zealand,Fish,32.51,co2_emmission
+New Zealand,Eggs,9.1,co2_emmission
+New Zealand,Milk - inc. cheese,195.5,co2_emmission
+New Zealand,Wheat and Wheat Products,14.67,co2_emmission
+New Zealand,Rice,11.72,co2_emmission
+New Zealand,Soybeans,0.2,co2_emmission
+New Zealand,Nuts inc. Peanut Butter,14.55,co2_emmission
+USA,Pork,97.83,co2_emmission
+USA,Poultry,53.72,co2_emmission
+USA,Beef,1118.29,co2_emmission
+USA,Lamb & Goat,15.06,co2_emmission
+USA,Fish,19.72,co2_emmission
+USA,Eggs,13.39,co2_emmission
+USA,Milk - inc. cheese,362.78,co2_emmission
+USA,Wheat and Wheat Products,15.34,co2_emmission
+USA,Rice,8.8,co2_emmission
+USA,Soybeans,0.02,co2_emmission
+USA,Nuts inc. Peanut Butter,13.91,co2_emmission
+Uruguay,Pork,59.61,co2_emmission
+Uruguay,Poultry,29.49,co2_emmission
+Uruguay,Beef,897.96,co2_emmission
+Uruguay,Lamb & Goat,288.21,co2_emmission
+Uruguay,Fish,10.43,co2_emmission
+Uruguay,Eggs,12.07,co2_emmission
+Uruguay,Milk - inc. cheese,299.89,co2_emmission
+Uruguay,Wheat and Wheat Products,20.85,co2_emmission
+Uruguay,Rice,14.72,co2_emmission
+Uruguay,Soybeans,0,co2_emmission
+Uruguay,Nuts inc. Peanut Butter,1.68,co2_emmission
+Luxembourg,Pork,154.25,co2_emmission
+Luxembourg,Poultry,22.96,co2_emmission
+Luxembourg,Beef,922.03,co2_emmission
+Luxembourg,Lamb & Goat,58.48,co2_emmission
+Luxembourg,Fish,36.87,co2_emmission
+Luxembourg,Eggs,13.45,co2_emmission
+Luxembourg,Milk - inc. cheese,363.65,co2_emmission
+Luxembourg,Wheat and Wheat Products,19.68,co2_emmission
+Luxembourg,Rice,5.37,co2_emmission
+Luxembourg,Soybeans,0.02,co2_emmission
+Luxembourg,Nuts inc. Peanut Butter,1.65,co2_emmission
+Brazil,Pork,44.6,co2_emmission
+Brazil,Poultry,48.34,co2_emmission
+Brazil,Beef,1211.17,co2_emmission
+Brazil,Lamb & Goat,21.71,co2_emmission
+Brazil,Fish,15.98,co2_emmission
+Brazil,Eggs,8.25,co2_emmission
+Brazil,Milk - inc. cheese,212.63,co2_emmission
+Brazil,Wheat and Wheat Products,10.11,co2_emmission
+Brazil,Rice,41.12,co2_emmission
+Brazil,Soybeans,1.63,co2_emmission
+Brazil,Nuts inc. Peanut Butter,1.19,co2_emmission
+Kazakhstan,Pork,36.67,co2_emmission
+Kazakhstan,Poultry,19.74,co2_emmission
+Kazakhstan,Beef,721.46,co2_emmission
+Kazakhstan,Lamb & Goat,334.79,co2_emmission
+Kazakhstan,Fish,8.32,co2_emmission
+Kazakhstan,Eggs,7.62,co2_emmission
+Kazakhstan,Milk - inc. cheese,410.4,co2_emmission
+Kazakhstan,Wheat and Wheat Products,17.6,co2_emmission
+Kazakhstan,Rice,9.37,co2_emmission
+Kazakhstan,Soybeans,0.01,co2_emmission
+Kazakhstan,Nuts inc. Peanut Butter,9.1,co2_emmission
+Sweden,Pork,130.96,co2_emmission
+Sweden,Poultry,17.87,co2_emmission
+Sweden,Beef,758.49,co2_emmission
+Sweden,Lamb & Goat,49.38,co2_emmission
+Sweden,Fish,38.1,co2_emmission
+Sweden,Eggs,12.28,co2_emmission
+Sweden,Milk - inc. cheese,486.05,co2_emmission
+Sweden,Wheat and Wheat Products,15.18,co2_emmission
+Sweden,Rice,7.63,co2_emmission
+Sweden,Soybeans,0.06,co2_emmission
+Sweden,Nuts inc. Peanut Butter,11.03,co2_emmission
+Bermuda,Pork,99.96,co2_emmission
+Bermuda,Poultry,35.04,co2_emmission
+Bermuda,Beef,1022.94,co2_emmission
+Bermuda,Lamb & Goat,94.9,co2_emmission
+Bermuda,Fish,53.04,co2_emmission
+Bermuda,Eggs,13.71,co2_emmission
+Bermuda,Milk - inc. cheese,136.12,co2_emmission
+Bermuda,Wheat and Wheat Products,10.47,co2_emmission
+Bermuda,Rice,6.88,co2_emmission
+Bermuda,Soybeans,0.1,co2_emmission
+Bermuda,Nuts inc. Peanut Butter,10.12,co2_emmission
+Denmark,Pork,88.03,co2_emmission
+Denmark,Poultry,28.73,co2_emmission
+Denmark,Beef,878.22,co2_emmission
+Denmark,Lamb & Goat,32.22,co2_emmission
+Denmark,Fish,26.33,co2_emmission
+Denmark,Eggs,14.1,co2_emmission
+Denmark,Milk - inc. cheese,394.99,co2_emmission
+Denmark,Wheat and Wheat Products,18.69,co2_emmission
+Denmark,Rice,6.35,co2_emmission
+Denmark,Soybeans,0.01,co2_emmission
+Denmark,Nuts inc. Peanut Butter,10.51,co2_emmission
+Finland,Pork,127.92,co2_emmission
+Finland,Poultry,21.34,co2_emmission
+Finland,Beef,593.09,co2_emmission
+Finland,Lamb & Goat,18.56,co2_emmission
+Finland,Fish,53.97,co2_emmission
+Finland,Eggs,8.77,co2_emmission
+Finland,Milk - inc. cheese,613.57,co2_emmission
+Finland,Wheat and Wheat Products,15.64,co2_emmission
+Finland,Rice,5.66,co2_emmission
+Finland,Soybeans,0.04,co2_emmission
+Finland,Nuts inc. Peanut Butter,6.07,co2_emmission
+Ireland,Pork,114.68,co2_emmission
+Ireland,Poultry,28.21,co2_emmission
+Ireland,Beef,689.67,co2_emmission
+Ireland,Lamb & Goat,143.58,co2_emmission
+Ireland,Fish,27.77,co2_emmission
+Ireland,Eggs,8.23,co2_emmission
+Ireland,Milk - inc. cheese,415.73,co2_emmission
+Ireland,Wheat and Wheat Products,20.59,co2_emmission
+Ireland,Rice,3.84,co2_emmission
+Ireland,Soybeans,0.11,co2_emmission
+Ireland,Nuts inc. Peanut Butter,7.26,co2_emmission
+Greece,Pork,100.2,co2_emmission
+Greece,Poultry,16.91,co2_emmission
+Greece,Beef,496.81,co2_emmission
+Greece,Lamb & Goat,436.7,co2_emmission
+Greece,Fish,23.02,co2_emmission
+Greece,Eggs,9.31,co2_emmission
+Greece,Milk - inc. cheese,363.59,co2_emmission
+Greece,Wheat and Wheat Products,23.65,co2_emmission
+Greece,Rice,8.5,co2_emmission
+Greece,Soybeans,0.01,co2_emmission
+Greece,Nuts inc. Peanut Butter,18.59,co2_emmission
+France,Pork,116.98,co2_emmission
+France,Poultry,24.63,co2_emmission
+France,Beef,734.73,co2_emmission
+France,Lamb & Goat,114.87,co2_emmission
+France,Fish,36.58,co2_emmission
+France,Eggs,12.06,co2_emmission
+France,Milk - inc. cheese,343.72,co2_emmission
+France,Wheat and Wheat Products,20.68,co2_emmission
+France,Rice,6.24,co2_emmission
+France,Soybeans,0.02,co2_emmission
+France,Nuts inc. Peanut Butter,9.54,co2_emmission
+Canada,Pork,80.74,co2_emmission
+Canada,Poultry,39.4,co2_emmission
+Canada,Beef,933.45,co2_emmission
+Canada,Lamb & Goat,33.97,co2_emmission
+Canada,Fish,23.25,co2_emmission
+Canada,Eggs,11.9,co2_emmission
+Canada,Milk - inc. cheese,267.46,co2_emmission
+Canada,Wheat and Wheat Products,16.2,co2_emmission
+Canada,Rice,16.19,co2_emmission
+Canada,Soybeans,0.42,co2_emmission
+Canada,Nuts inc. Peanut Butter,14.18,co2_emmission
+Norway,Pork,83.21,co2_emmission
+Norway,Poultry,22.57,co2_emmission
+Norway,Beef,611.91,co2_emmission
+Norway,Lamb & Goat,187.01,co2_emmission
+Norway,Fish,60.96,co2_emmission
+Norway,Eggs,10.48,co2_emmission
+Norway,Milk - inc. cheese,372.25,co2_emmission
+Norway,Wheat and Wheat Products,18.52,co2_emmission
+Norway,Rice,5.58,co2_emmission
+Norway,Soybeans,0.05,co2_emmission
+Norway,Nuts inc. Peanut Butter,9.35,co2_emmission
+Hong Kong SAR. China,Pork,237.54,co2_emmission
+Hong Kong SAR. China,Poultry,58.93,co2_emmission
+Hong Kong SAR. China,Beef,796.75,co2_emmission
+Hong Kong SAR. China,Lamb & Goat,77.74,co2_emmission
+Hong Kong SAR. China,Fish,67.76,co2_emmission
+Hong Kong SAR. China,Eggs,13.32,co2_emmission
+Hong Kong SAR. China,Milk - inc. cheese,150.77,co2_emmission
+Hong Kong SAR. China,Wheat and Wheat Products,10.13,co2_emmission
+Hong Kong SAR. China,Rice,55.64,co2_emmission
+Hong Kong SAR. China,Soybeans,1.26,co2_emmission
+Hong Kong SAR. China,Nuts inc. Peanut Butter,24.44,co2_emmission
+French Polynesia,Pork,52.21,co2_emmission
+French Polynesia,Poultry,53.23,co2_emmission
+French Polynesia,Beef,953.51,co2_emmission
+French Polynesia,Lamb & Goat,99.11,co2_emmission
+French Polynesia,Fish,62.19,co2_emmission
+French Polynesia,Eggs,8.04,co2_emmission
+French Polynesia,Milk - inc. cheese,133.27,co2_emmission
+French Polynesia,Wheat and Wheat Products,13.1,co2_emmission
+French Polynesia,Rice,45.54,co2_emmission
+French Polynesia,Soybeans,0.35,co2_emmission
+French Polynesia,Nuts inc. Peanut Butter,4.14,co2_emmission
+Israel,Pork,7.04,co2_emmission
+Israel,Poultry,67.14,co2_emmission
+Israel,Beef,888.09,co2_emmission
+Israel,Lamb & Goat,65.49,co2_emmission
+Israel,Fish,35.41,co2_emmission
+Israel,Eggs,10.43,co2_emmission
+Israel,Milk - inc. cheese,275.76,co2_emmission
+Israel,Wheat and Wheat Products,21.14,co2_emmission
+Israel,Rice,21.51,co2_emmission
+Israel,Soybeans,0.05,co2_emmission
+Israel,Nuts inc. Peanut Butter,13.65,co2_emmission
+Switzerland,Pork,111.46,co2_emmission
+Switzerland,Poultry,17.6,co2_emmission
+Switzerland,Beef,656.04,co2_emmission
+Switzerland,Lamb & Goat,49.73,co2_emmission
+Switzerland,Fish,21.52,co2_emmission
+Switzerland,Eggs,9.67,co2_emmission
+Switzerland,Milk - inc. cheese,453.94,co2_emmission
+Switzerland,Wheat and Wheat Products,17.07,co2_emmission
+Switzerland,Rice,3.11,co2_emmission
+Switzerland,Soybeans,0.2,co2_emmission
+Switzerland,Nuts inc. Peanut Butter,16.41,co2_emmission
+Netherlands,Pork,128.7,co2_emmission
+Netherlands,Poultry,25.67,co2_emmission
+Netherlands,Beef,545.26,co2_emmission
+Netherlands,Lamb & Goat,32.92,co2_emmission
+Netherlands,Fish,29.76,co2_emmission
+Netherlands,Eggs,12.89,co2_emmission
+Netherlands,Milk - inc. cheese,486.39,co2_emmission
+Netherlands,Wheat and Wheat Products,13.38,co2_emmission
+Netherlands,Rice,3.75,co2_emmission
+Netherlands,Soybeans,0.05,co2_emmission
+Netherlands,Nuts inc. Peanut Butter,14.05,co2_emmission
+Kuwait,Pork,0,co2_emmission
+Kuwait,Poultry,57.59,co2_emmission
+Kuwait,Beef,402.08,co2_emmission
+Kuwait,Lamb & Goat,546.66,co2_emmission
+Kuwait,Fish,19.14,co2_emmission
+Kuwait,Eggs,11.57,co2_emmission
+Kuwait,Milk - inc. cheese,224.57,co2_emmission
+Kuwait,Wheat and Wheat Products,18.45,co2_emmission
+Kuwait,Rice,56.09,co2_emmission
+Kuwait,Soybeans,0.03,co2_emmission
+Kuwait,Nuts inc. Peanut Butter,9.26,co2_emmission
+United Kingdom,Pork,91.28,co2_emmission
+United Kingdom,Poultry,33.89,co2_emmission
+United Kingdom,Beef,559.15,co2_emmission
+United Kingdom,Lamb & Goat,157.24,co2_emmission
+United Kingdom,Fish,24.73,co2_emmission
+United Kingdom,Eggs,10.18,co2_emmission
+United Kingdom,Milk - inc. cheese,330.75,co2_emmission
+United Kingdom,Wheat and Wheat Products,18.81,co2_emmission
+United Kingdom,Rice,8.18,co2_emmission
+United Kingdom,Soybeans,0.02,co2_emmission
+United Kingdom,Nuts inc. Peanut Butter,7.4,co2_emmission
+Austria,Pork,186.04,co2_emmission
+Austria,Poultry,19.99,co2_emmission
+Austria,Beef,528.9,co2_emmission
+Austria,Lamb & Goat,40.62,co2_emmission
+Austria,Fish,19.42,co2_emmission
+Austria,Eggs,13.49,co2_emmission
+Austria,Milk - inc. cheese,367.62,co2_emmission
+Austria,Wheat and Wheat Products,15.47,co2_emmission
+Austria,Rice,4.73,co2_emmission
+Austria,Soybeans,0.93,co2_emmission
+Austria,Nuts inc. Peanut Butter,13.95,co2_emmission
+Oman,Pork,0.04,co2_emmission
+Oman,Poultry,33.85,co2_emmission
+Oman,Beef,465.95,co2_emmission
+Oman,Lamb & Goat,450.71,co2_emmission
+Oman,Fish,34.42,co2_emmission
+Oman,Eggs,7.17,co2_emmission
+Oman,Milk - inc. cheese,216.91,co2_emmission
+Oman,Wheat and Wheat Products,12.22,co2_emmission
+Oman,Rice,72.37,co2_emmission
+Oman,Soybeans,0.09,co2_emmission
+Oman,Nuts inc. Peanut Butter,2.97,co2_emmission
+Italy,Pork,142.57,co2_emmission
+Italy,Poultry,19.99,co2_emmission
+Italy,Beef,573.96,co2_emmission
+Italy,Lamb & Goat,32.22,co2_emmission
+Italy,Fish,24.91,co2_emmission
+Italy,Eggs,12.25,co2_emmission
+Italy,Milk - inc. cheese,351.66,co2_emmission
+Italy,Wheat and Wheat Products,27.91,co2_emmission
+Italy,Rice,7.35,co2_emmission
+Italy,Soybeans,0,co2_emmission
+Italy,Nuts inc. Peanut Butter,13.51,co2_emmission
+Bahamas,Pork,115.88,co2_emmission
+Bahamas,Poultry,49.13,co2_emmission
+Bahamas,Beef,614.69,co2_emmission
+Bahamas,Lamb & Goat,182.8,co2_emmission
+Bahamas,Fish,30.02,co2_emmission
+Bahamas,Eggs,5.7,co2_emmission
+Bahamas,Milk - inc. cheese,149.22,co2_emmission
+Bahamas,Wheat and Wheat Products,7.62,co2_emmission
+Bahamas,Rice,30.67,co2_emmission
+Bahamas,Soybeans,0.04,co2_emmission
+Bahamas,Nuts inc. Peanut Butter,7.13,co2_emmission
+Portugal,Pork,134.18,co2_emmission
+Portugal,Poultry,32.38,co2_emmission
+Portugal,Beef,507.61,co2_emmission
+Portugal,Lamb & Goat,83.35,co2_emmission
+Portugal,Fish,72.47,co2_emmission
+Portugal,Eggs,8.31,co2_emmission
+Portugal,Milk - inc. cheese,292.06,co2_emmission
+Portugal,Wheat and Wheat Products,17.98,co2_emmission
+Portugal,Rice,19.02,co2_emmission
+Portugal,Soybeans,0,co2_emmission
+Portugal,Nuts inc. Peanut Butter,6.92,co2_emmission
+Malta,Pork,121.19,co2_emmission
+Malta,Poultry,28.36,co2_emmission
+Malta,Beef,593.09,co2_emmission
+Malta,Lamb & Goat,41.67,co2_emmission
+Malta,Fish,39.25,co2_emmission
+Malta,Eggs,10.69,co2_emmission
+Malta,Milk - inc. cheese,270.72,co2_emmission
+Malta,Wheat and Wheat Products,26.62,co2_emmission
+Malta,Rice,6.35,co2_emmission
+Malta,Soybeans,0.02,co2_emmission
+Malta,Nuts inc. Peanut Butter,9.95,co2_emmission
+Armenia,Pork,34.23,co2_emmission
+Armenia,Poultry,14.34,co2_emmission
+Armenia,Beef,606.67,co2_emmission
+Armenia,Lamb & Goat,105.76,co2_emmission
+Armenia,Fish,6.96,co2_emmission
+Armenia,Eggs,10.74,co2_emmission
+Armenia,Milk - inc. cheese,297.74,co2_emmission
+Armenia,Wheat and Wheat Products,24.91,co2_emmission
+Armenia,Rice,4.07,co2_emmission
+Armenia,Soybeans,0,co2_emmission
+Armenia,Nuts inc. Peanut Butter,4.51,co2_emmission
+Slovenia,Pork,99.78,co2_emmission
+Slovenia,Poultry,25.2,co2_emmission
+Slovenia,Beef,568.71,co2_emmission
+Slovenia,Lamb & Goat,27.67,co2_emmission
+Slovenia,Fish,12.39,co2_emmission
+Slovenia,Eggs,8.6,co2_emmission
+Slovenia,Milk - inc. cheese,334.75,co2_emmission
+Slovenia,Wheat and Wheat Products,19.72,co2_emmission
+Slovenia,Rice,5.05,co2_emmission
+Slovenia,Soybeans,0.34,co2_emmission
+Slovenia,Nuts inc. Peanut Butter,9.35,co2_emmission
+Chile,Pork,87.35,co2_emmission
+Chile,Poultry,39.23,co2_emmission
+Chile,Beef,736.27,co2_emmission
+Chile,Lamb & Goat,14.71,co2_emmission
+Chile,Fish,12.21,co2_emmission
+Chile,Eggs,9.16,co2_emmission
+Chile,Milk - inc. cheese,165.39,co2_emmission
+Chile,Wheat and Wheat Products,19.97,co2_emmission
+Chile,Rice,11.33,co2_emmission
+Chile,Soybeans,0.02,co2_emmission
+Chile,Nuts inc. Peanut Butter,3.93,co2_emmission
+Venezuela,Pork,25.59,co2_emmission
+Venezuela,Poultry,42.19,co2_emmission
+Venezuela,Beef,798.91,co2_emmission
+Venezuela,Lamb & Goat,11.21,co2_emmission
+Venezuela,Fish,13.32,co2_emmission
+Venezuela,Eggs,5.17,co2_emmission
+Venezuela,Milk - inc. cheese,167.78,co2_emmission
+Venezuela,Wheat and Wheat Products,9.38,co2_emmission
+Venezuela,Rice,29.93,co2_emmission
+Venezuela,Soybeans,0,co2_emmission
+Venezuela,Nuts inc. Peanut Butter,0.62,co2_emmission
+Belgium,Pork,136.8,co2_emmission
+Belgium,Poultry,13.11,co2_emmission
+Belgium,Beef,482.31,co2_emmission
+Belgium,Lamb & Goat,46.23,co2_emmission
+Belgium,Fish,30.29,co2_emmission
+Belgium,Eggs,11.57,co2_emmission
+Belgium,Milk - inc. cheese,336.43,co2_emmission
+Belgium,Wheat and Wheat Products,21.34,co2_emmission
+Belgium,Rice,11.02,co2_emmission
+Belgium,Soybeans,0.03,co2_emmission
+Belgium,Nuts inc. Peanut Butter,12.96,co2_emmission
+Germany,Pork,183.38,co2_emmission
+Germany,Poultry,19.07,co2_emmission
+Germany,Beef,406.09,co2_emmission
+Germany,Lamb & Goat,25.56,co2_emmission
+Germany,Fish,17.82,co2_emmission
+Germany,Eggs,11.21,co2_emmission
+Germany,Milk - inc. cheese,368.49,co2_emmission
+Germany,Wheat and Wheat Products,15.91,co2_emmission
+Germany,Rice,4.27,co2_emmission
+Germany,Soybeans,0.4,co2_emmission
+Germany,Nuts inc. Peanut Butter,14.09,co2_emmission
+Russia,Pork,90.82,co2_emmission
+Russia,Poultry,29.54,co2_emmission
+Russia,Beef,523.97,co2_emmission
+Russia,Lamb & Goat,49.03,co2_emmission
+Russia,Fish,33.24,co2_emmission
+Russia,Eggs,14.17,co2_emmission
+Russia,Milk - inc. cheese,232.99,co2_emmission
+Russia,Wheat and Wheat Products,24.98,co2_emmission
+Russia,Rice,6.03,co2_emmission
+Russia,Soybeans,0.02,co2_emmission
+Russia,Nuts inc. Peanut Butter,2.87,co2_emmission
+Croatia,Pork,151.46,co2_emmission
+Croatia,Poultry,9.15,co2_emmission
+Croatia,Beef,382.95,co2_emmission
+Croatia,Lamb & Goat,59.88,co2_emmission
+Croatia,Fish,25.28,co2_emmission
+Croatia,Eggs,7.79,co2_emmission
+Croatia,Milk - inc. cheese,329.06,co2_emmission
+Croatia,Wheat and Wheat Products,20.33,co2_emmission
+Croatia,Rice,3.38,co2_emmission
+Croatia,Soybeans,0,co2_emmission
+Croatia,Nuts inc. Peanut Butter,6.87,co2_emmission
+Belarus,Pork,142.89,co2_emmission
+Belarus,Poultry,33.61,co2_emmission
+Belarus,Beef,527.98,co2_emmission
+Belarus,Lamb & Goat,3.85,co2_emmission
+Belarus,Fish,25.15,co2_emmission
+Belarus,Eggs,14.57,co2_emmission
+Belarus,Milk - inc. cheese,190.49,co2_emmission
+Belarus,Wheat and Wheat Products,11.53,co2_emmission
+Belarus,Rice,4.06,co2_emmission
+Belarus,Soybeans,0.14,co2_emmission
+Belarus,Nuts inc. Peanut Butter,5.95,co2_emmission
+Spain,Pork,173.15,co2_emmission
+Spain,Poultry,30.75,co2_emmission
+Spain,Beef,374.92,co2_emmission
+Spain,Lamb & Goat,75.64,co2_emmission
+Spain,Fish,46.03,co2_emmission
+Spain,Eggs,12.24,co2_emmission
+Spain,Milk - inc. cheese,234.01,co2_emmission
+Spain,Wheat and Wheat Products,17.9,co2_emmission
+Spain,Rice,10.65,co2_emmission
+Spain,Soybeans,0.01,co2_emmission
+Spain,Nuts inc. Peanut Butter,13.17,co2_emmission
+Paraguay,Pork,92.88,co2_emmission
+Paraguay,Poultry,6.86,co2_emmission
+Paraguay,Beef,611.29,co2_emmission
+Paraguay,Lamb & Goat,19.61,co2_emmission
+Paraguay,Fish,5.75,co2_emmission
+Paraguay,Eggs,17.3,co2_emmission
+Paraguay,Milk - inc. cheese,107.86,co2_emmission
+Paraguay,Wheat and Wheat Products,6.01,co2_emmission
+Paraguay,Rice,6.28,co2_emmission
+Paraguay,Soybeans,0,co2_emmission
+Paraguay,Nuts inc. Peanut Butter,2.83,co2_emmission
+New Caledonia,Pork,70.44,co2_emmission
+New Caledonia,Poultry,47.65,co2_emmission
+New Caledonia,Beef,495.89,co2_emmission
+New Caledonia,Lamb & Goat,68.29,co2_emmission
+New Caledonia,Fish,30.94,co2_emmission
+New Caledonia,Eggs,8.13,co2_emmission
+New Caledonia,Milk - inc. cheese,153.84,co2_emmission
+New Caledonia,Wheat and Wheat Products,15.59,co2_emmission
+New Caledonia,Rice,22.36,co2_emmission
+New Caledonia,Soybeans,0.25,co2_emmission
+New Caledonia,Nuts inc. Peanut Butter,5.24,co2_emmission
+South Africa,Pork,14.72,co2_emmission
+South Africa,Poultry,40.36,co2_emmission
+South Africa,Beef,556.37,co2_emmission
+South Africa,Lamb & Goat,149.89,co2_emmission
+South Africa,Fish,8.88,co2_emmission
+South Africa,Eggs,6.62,co2_emmission
+South Africa,Milk - inc. cheese,79.41,co2_emmission
+South Africa,Wheat and Wheat Products,11.47,co2_emmission
+South Africa,Rice,22.28,co2_emmission
+South Africa,Soybeans,0.57,co2_emmission
+South Africa,Nuts inc. Peanut Butter,1.84,co2_emmission
+Barbados,Pork,29.38,co2_emmission
+Barbados,Poultry,45.78,co2_emmission
+Barbados,Beef,405.16,co2_emmission
+Barbados,Lamb & Goat,142.88,co2_emmission
+Barbados,Fish,59.73,co2_emmission
+Barbados,Eggs,8.83,co2_emmission
+Barbados,Milk - inc. cheese,157.37,co2_emmission
+Barbados,Wheat and Wheat Products,12.53,co2_emmission
+Barbados,Rice,20.04,co2_emmission
+Barbados,Soybeans,0.05,co2_emmission
+Barbados,Nuts inc. Peanut Butter,7.36,co2_emmission
+Lithuania,Pork,161.65,co2_emmission
+Lithuania,Poultry,28.83,co2_emmission
+Lithuania,Beef,138.55,co2_emmission
+Lithuania,Lamb & Goat,8.4,co2_emmission
+Lithuania,Fish,67.68,co2_emmission
+Lithuania,Eggs,12.04,co2_emmission
+Lithuania,Milk - inc. cheese,420.85,co2_emmission
+Lithuania,Wheat and Wheat Products,23.19,co2_emmission
+Lithuania,Rice,3.93,co2_emmission
+Lithuania,Soybeans,0.01,co2_emmission
+Lithuania,Nuts inc. Peanut Butter,3.77,co2_emmission
+Turkey,Pork,0.04,co2_emmission
+Turkey,Poultry,20.17,co2_emmission
+Turkey,Beef,359.19,co2_emmission
+Turkey,Lamb & Goat,163.89,co2_emmission
+Turkey,Fish,8.91,co2_emmission
+Turkey,Eggs,7.53,co2_emmission
+Turkey,Milk - inc. cheese,276.25,co2_emmission
+Turkey,Wheat and Wheat Products,32.41,co2_emmission
+Turkey,Rice,13.74,co2_emmission
+Turkey,Soybeans,0.77,co2_emmission
+Turkey,Nuts inc. Peanut Butter,14.11,co2_emmission
+Estonia,Pork,105.05,co2_emmission
+Estonia,Poultry,22.68,co2_emmission
+Estonia,Beef,221.87,co2_emmission
+Estonia,Lamb & Goat,15.41,co2_emmission
+Estonia,Fish,20.41,co2_emmission
+Estonia,Eggs,11.63,co2_emmission
+Estonia,Milk - inc. cheese,405.74,co2_emmission
+Estonia,Wheat and Wheat Products,17.04,co2_emmission
+Estonia,Rice,3.28,co2_emmission
+Estonia,Soybeans,0.02,co2_emmission
+Estonia,Nuts inc. Peanut Butter,7.59,co2_emmission
+Mexico,Pork,53.91,co2_emmission
+Mexico,Poultry,32.35,co2_emmission
+Mexico,Beef,473.05,co2_emmission
+Mexico,Lamb & Goat,31.17,co2_emmission
+Mexico,Fish,12.07,co2_emmission
+Mexico,Eggs,16.85,co2_emmission
+Mexico,Milk - inc. cheese,159.35,co2_emmission
+Mexico,Wheat and Wheat Products,6.71,co2_emmission
+Mexico,Rice,7.22,co2_emmission
+Mexico,Soybeans,0.01,co2_emmission
+Mexico,Nuts inc. Peanut Butter,4.44,co2_emmission
+Costa Rica,Pork,36.39,co2_emmission
+Costa Rica,Poultry,26.29,co2_emmission
+Costa Rica,Beef,469.97,co2_emmission
+Costa Rica,Lamb & Goat,0.7,co2_emmission
+Costa Rica,Fish,18.07,co2_emmission
+Costa Rica,Eggs,9.69,co2_emmission
+Costa Rica,Milk - inc. cheese,261.06,co2_emmission
+Costa Rica,Wheat and Wheat Products,7.5,co2_emmission
+Costa Rica,Rice,58.47,co2_emmission
+Costa Rica,Soybeans,0.69,co2_emmission
+Costa Rica,Nuts inc. Peanut Butter,2.44,co2_emmission
+Bolivia,Pork,31.47,co2_emmission
+Bolivia,Poultry,36.86,co2_emmission
+Bolivia,Beef,610.37,co2_emmission
+Bolivia,Lamb & Goat,60.23,co2_emmission
+Bolivia,Fish,3.48,co2_emmission
+Bolivia,Eggs,4.76,co2_emmission
+Bolivia,Milk - inc. cheese,65.58,co2_emmission
+Bolivia,Wheat and Wheat Products,9.53,co2_emmission
+Bolivia,Rice,34.54,co2_emmission
+Bolivia,Soybeans,0,co2_emmission
+Bolivia,Nuts inc. Peanut Butter,16.21,co2_emmission
+Ecuador,Pork,51.11,co2_emmission
+Ecuador,Poultry,23.47,co2_emmission
+Ecuador,Beef,512.55,co2_emmission
+Ecuador,Lamb & Goat,15.41,co2_emmission
+Ecuador,Fish,8.25,co2_emmission
+Ecuador,Eggs,7.36,co2_emmission
+Ecuador,Milk - inc. cheese,198.85,co2_emmission
+Ecuador,Wheat and Wheat Products,7.47,co2_emmission
+Ecuador,Rice,57.68,co2_emmission
+Ecuador,Soybeans,0,co2_emmission
+Ecuador,Nuts inc. Peanut Butter,1.73,co2_emmission
+Panama,Pork,47.71,co2_emmission
+Panama,Poultry,33.1,co2_emmission
+Panama,Beef,629.5,co2_emmission
+Panama,Lamb & Goat,0.35,co2_emmission
+Panama,Fish,17.64,co2_emmission
+Panama,Eggs,4.16,co2_emmission
+Panama,Milk - inc. cheese,100.12,co2_emmission
+Panama,Wheat and Wheat Products,7.43,co2_emmission
+Panama,Rice,85,co2_emmission
+Panama,Soybeans,1.59,co2_emmission
+Panama,Nuts inc. Peanut Butter,1.86,co2_emmission
+Czech Republic,Pork,145.72,co2_emmission
+Czech Republic,Poultry,20.51,co2_emmission
+Czech Republic,Beef,251.49,co2_emmission
+Czech Republic,Lamb & Goat,11.91,co2_emmission
+Czech Republic,Fish,13.17,co2_emmission
+Czech Republic,Eggs,10.71,co2_emmission
+Czech Republic,Milk - inc. cheese,278.04,co2_emmission
+Czech Republic,Wheat and Wheat Products,17.67,co2_emmission
+Czech Republic,Rice,6.13,co2_emmission
+Czech Republic,Soybeans,0.37,co2_emmission
+Czech Republic,Nuts inc. Peanut Butter,4.37,co2_emmission
+Romania,Pork,89.58,co2_emmission
+Romania,Poultry,16.52,co2_emmission
+Romania,Beef,147.5,co2_emmission
+Romania,Lamb & Goat,119.42,co2_emmission
+Romania,Fish,9.69,co2_emmission
+Romania,Eggs,11.89,co2_emmission
+Romania,Milk - inc. cheese,339.48,co2_emmission
+Romania,Wheat and Wheat Products,25.72,co2_emmission
+Romania,Rice,3.31,co2_emmission
+Romania,Soybeans,0,co2_emmission
+Romania,Nuts inc. Peanut Butter,3.19,co2_emmission
+Colombia,Pork,23.04,co2_emmission
+Colombia,Poultry,29.62,co2_emmission
+Colombia,Beef,504.84,co2_emmission
+Colombia,Lamb & Goat,7.35,co2_emmission
+Colombia,Fish,9.6,co2_emmission
+Colombia,Eggs,9.9,co2_emmission
+Colombia,Milk - inc. cheese,154.5,co2_emmission
+Colombia,Wheat and Wheat Products,5.68,co2_emmission
+Colombia,Rice,35.86,co2_emmission
+Colombia,Soybeans,0.4,co2_emmission
+Colombia,Nuts inc. Peanut Butter,0.74,co2_emmission
+Maldives,Pork,4.32,co2_emmission
+Maldives,Poultry,19.84,co2_emmission
+Maldives,Beef,291.3,co2_emmission
+Maldives,Lamb & Goat,24.51,co2_emmission
+Maldives,Fish,286.94,co2_emmission
+Maldives,Eggs,9.91,co2_emmission
+Maldives,Milk - inc. cheese,158.78,co2_emmission
+Maldives,Wheat and Wheat Products,14.83,co2_emmission
+Maldives,Rice,64.92,co2_emmission
+Maldives,Soybeans,0.09,co2_emmission
+Maldives,Nuts inc. Peanut Butter,28.02,co2_emmission
+Cyprus,Pork,135.85,co2_emmission
+Cyprus,Poultry,26.26,co2_emmission
+Cyprus,Beef,178.67,co2_emmission
+Cyprus,Lamb & Goat,176.85,co2_emmission
+Cyprus,Fish,23.73,co2_emmission
+Cyprus,Eggs,8.25,co2_emmission
+Cyprus,Milk - inc. cheese,161.4,co2_emmission
+Cyprus,Wheat and Wheat Products,15.88,co2_emmission
+Cyprus,Rice,6.32,co2_emmission
+Cyprus,Soybeans,0.02,co2_emmission
+Cyprus,Nuts inc. Peanut Butter,8.14,co2_emmission
+Serbia,Pork,113.41,co2_emmission
+Serbia,Poultry,11.43,co2_emmission
+Serbia,Beef,217.55,co2_emmission
+Serbia,Lamb & Goat,124.67,co2_emmission
+Serbia,Fish,8.93,co2_emmission
+Serbia,Eggs,8.17,co2_emmission
+Serbia,Milk - inc. cheese,211.57,co2_emmission
+Serbia,Wheat and Wheat Products,20.19,co2_emmission
+Serbia,Rice,1.56,co2_emmission
+Serbia,Soybeans,0,co2_emmission
+Serbia,Nuts inc. Peanut Butter,5.86,co2_emmission
+United Arab Emirates,Pork,0,co2_emmission
+United Arab Emirates,Poultry,44.09,co2_emmission
+United Arab Emirates,Beef,174.04,co2_emmission
+United Arab Emirates,Lamb & Goat,317.98,co2_emmission
+United Arab Emirates,Fish,32.59,co2_emmission
+United Arab Emirates,Eggs,7.56,co2_emmission
+United Arab Emirates,Milk - inc. cheese,188.96,co2_emmission
+United Arab Emirates,Wheat and Wheat Products,19.32,co2_emmission
+United Arab Emirates,Rice,71.98,co2_emmission
+United Arab Emirates,Soybeans,0.04,co2_emmission
+United Arab Emirates,Nuts inc. Peanut Butter,40.76,co2_emmission
+Algeria,Pork,0,co2_emmission
+Algeria,Poultry,7.97,co2_emmission
+Algeria,Beef,172.8,co2_emmission
+Algeria,Lamb & Goat,269.3,co2_emmission
+Algeria,Fish,5.97,co2_emmission
+Algeria,Eggs,7.4,co2_emmission
+Algeria,Milk - inc. cheese,201.6,co2_emmission
+Algeria,Wheat and Wheat Products,35.36,co2_emmission
+Algeria,Rice,3.8,co2_emmission
+Algeria,Soybeans,0,co2_emmission
+Algeria,Nuts inc. Peanut Butter,3.68,co2_emmission
+Ukraine,Pork,72.77,co2_emmission
+Ukraine,Poultry,26.03,co2_emmission
+Ukraine,Beef,276.49,co2_emmission
+Ukraine,Lamb & Goat,14.36,co2_emmission
+Ukraine,Fish,24.32,co2_emmission
+Ukraine,Eggs,16.54,co2_emmission
+Ukraine,Milk - inc. cheese,206.58,co2_emmission
+Ukraine,Wheat and Wheat Products,20.05,co2_emmission
+Ukraine,Rice,3.84,co2_emmission
+Ukraine,Soybeans,0.01,co2_emmission
+Ukraine,Nuts inc. Peanut Butter,4.74,co2_emmission
+Pakistan,Pork,0,co2_emmission
+Pakistan,Poultry,5.38,co2_emmission
+Pakistan,Beef,272.17,co2_emmission
+Pakistan,Lamb & Goat,86.15,co2_emmission
+Pakistan,Fish,2.99,co2_emmission
+Pakistan,Eggs,2.71,co2_emmission
+Pakistan,Milk - inc. cheese,260.85,co2_emmission
+Pakistan,Wheat and Wheat Products,21.67,co2_emmission
+Pakistan,Rice,15.68,co2_emmission
+Pakistan,Soybeans,0,co2_emmission
+Pakistan,Nuts inc. Peanut Butter,1.47,co2_emmission
+Swaziland,Pork,8.6,co2_emmission
+Swaziland,Poultry,6.64,co2_emmission
+Swaziland,Beef,465.95,co2_emmission
+Swaziland,Lamb & Goat,67.94,co2_emmission
+Swaziland,Fish,2.01,co2_emmission
+Swaziland,Eggs,1.38,co2_emmission
+Swaziland,Milk - inc. cheese,80.62,co2_emmission
+Swaziland,Wheat and Wheat Products,7.08,co2_emmission
+Swaziland,Rice,27.07,co2_emmission
+Swaziland,Soybeans,0.25,co2_emmission
+Swaziland,Nuts inc. Peanut Butter,11.4,co2_emmission
+Latvia,Pork,123.74,co2_emmission
+Latvia,Poultry,22.05,co2_emmission
+Latvia,Beef,157.68,co2_emmission
+Latvia,Lamb & Goat,11.91,co2_emmission
+Latvia,Fish,34.01,co2_emmission
+Latvia,Eggs,12.89,co2_emmission
+Latvia,Milk - inc. cheese,248,co2_emmission
+Latvia,Wheat and Wheat Products,13.76,co2_emmission
+Latvia,Rice,2.83,co2_emmission
+Latvia,Soybeans,0.02,co2_emmission
+Latvia,Nuts inc. Peanut Butter,6.69,co2_emmission
+Bosnia and Herzegovina,Pork,33.2,co2_emmission
+Bosnia and Herzegovina,Poultry,14.15,co2_emmission
+Bosnia and Herzegovina,Beef,281.42,co2_emmission
+Bosnia and Herzegovina,Lamb & Goat,16.46,co2_emmission
+Bosnia and Herzegovina,Fish,6.48,co2_emmission
+Bosnia and Herzegovina,Eggs,4.12,co2_emmission
+Bosnia and Herzegovina,Milk - inc. cheese,247.89,co2_emmission
+Bosnia and Herzegovina,Wheat and Wheat Products,17.84,co2_emmission
+Bosnia and Herzegovina,Rice,2.41,co2_emmission
+Bosnia and Herzegovina,Soybeans,0.67,co2_emmission
+Bosnia and Herzegovina,Nuts inc. Peanut Butter,3.54,co2_emmission
+Fiji,Pork,15.26,co2_emmission
+Fiji,Poultry,21.76,co2_emmission
+Fiji,Beef,276.49,co2_emmission
+Fiji,Lamb & Goat,206.62,co2_emmission
+Fiji,Fish,55.9,co2_emmission
+Fiji,Eggs,5.92,co2_emmission
+Fiji,Milk - inc. cheese,57.26,co2_emmission
+Fiji,Wheat and Wheat Products,16.06,co2_emmission
+Fiji,Rice,58.38,co2_emmission
+Fiji,Soybeans,0.14,co2_emmission
+Fiji,Nuts inc. Peanut Butter,2.3,co2_emmission
+South Korea,Pork,115.95,co2_emmission
+South Korea,Poultry,17.19,co2_emmission
+South Korea,Beef,448.37,co2_emmission
+South Korea,Lamb & Goat,4.9,co2_emmission
+South Korea,Fish,52.83,co2_emmission
+South Korea,Eggs,10.33,co2_emmission
+South Korea,Milk - inc. cheese,41.38,co2_emmission
+South Korea,Wheat and Wheat Products,9.7,co2_emmission
+South Korea,Rice,109,co2_emmission
+South Korea,Soybeans,3.76,co2_emmission
+South Korea,Nuts inc. Peanut Butter,8.64,co2_emmission
+Poland,Pork,163.49,co2_emmission
+Poland,Poultry,29.44,co2_emmission
+Poland,Beef,71.59,co2_emmission
+Poland,Lamb & Goat,0.7,co2_emmission
+Poland,Fish,16.75,co2_emmission
+Poland,Eggs,6.92,co2_emmission
+Poland,Milk - inc. cheese,292.56,co2_emmission
+Poland,Wheat and Wheat Products,20.75,co2_emmission
+Poland,Rice,1.22,co2_emmission
+Poland,Soybeans,0.03,co2_emmission
+Poland,Nuts inc. Peanut Butter,3.95,co2_emmission
+Saudi Arabia,Pork,0,co2_emmission
+Saudi Arabia,Poultry,52.69,co2_emmission
+Saudi Arabia,Beef,199.03,co2_emmission
+Saudi Arabia,Lamb & Goat,229.03,co2_emmission
+Saudi Arabia,Fish,19.14,co2_emmission
+Saudi Arabia,Eggs,4.93,co2_emmission
+Saudi Arabia,Milk - inc. cheese,119.15,co2_emmission
+Saudi Arabia,Wheat and Wheat Products,17.06,co2_emmission
+Saudi Arabia,Rice,46.09,co2_emmission
+Saudi Arabia,Soybeans,0.02,co2_emmission
+Saudi Arabia,Nuts inc. Peanut Butter,5.72,co2_emmission
+Botswana,Pork,2.62,co2_emmission
+Botswana,Poultry,5.73,co2_emmission
+Botswana,Beef,242.23,co2_emmission
+Botswana,Lamb & Goat,131.67,co2_emmission
+Botswana,Fish,6.35,co2_emmission
+Botswana,Eggs,1.79,co2_emmission
+Botswana,Milk - inc. cheese,167.71,co2_emmission
+Botswana,Wheat and Wheat Products,7.28,co2_emmission
+Botswana,Rice,9.03,co2_emmission
+Botswana,Soybeans,0.52,co2_emmission
+Botswana,Nuts inc. Peanut Butter,1.91,co2_emmission
+Macedonia,Pork,36.63,co2_emmission
+Macedonia,Poultry,20.16,co2_emmission
+Macedonia,Beef,237.3,co2_emmission
+Macedonia,Lamb & Goat,32.92,co2_emmission
+Macedonia,Fish,8.73,co2_emmission
+Macedonia,Eggs,5.86,co2_emmission
+Macedonia,Milk - inc. cheese,224.96,co2_emmission
+Macedonia,Wheat and Wheat Products,19.99,co2_emmission
+Macedonia,Rice,3.6,co2_emmission
+Macedonia,Soybeans,0.21,co2_emmission
+Macedonia,Nuts inc. Peanut Butter,10.39,co2_emmission
+Hungary,Pork,123.63,co2_emmission
+Hungary,Poultry,25.54,co2_emmission
+Hungary,Beef,153.06,co2_emmission
+Hungary,Lamb & Goat,3.85,co2_emmission
+Hungary,Fish,7.87,co2_emmission
+Hungary,Eggs,11.44,co2_emmission
+Hungary,Milk - inc. cheese,226.55,co2_emmission
+Hungary,Wheat and Wheat Products,20.97,co2_emmission
+Hungary,Rice,2.75,co2_emmission
+Hungary,Soybeans,0,co2_emmission
+Hungary,Nuts inc. Peanut Butter,1.13,co2_emmission
+Trinidad and Tobago,Pork,31.57,co2_emmission
+Trinidad and Tobago,Poultry,62.59,co2_emmission
+Trinidad and Tobago,Beef,189.16,co2_emmission
+Trinidad and Tobago,Lamb & Goat,97.71,co2_emmission
+Trinidad and Tobago,Fish,32.8,co2_emmission
+Trinidad and Tobago,Eggs,3.86,co2_emmission
+Trinidad and Tobago,Milk - inc. cheese,147.85,co2_emmission
+Trinidad and Tobago,Wheat and Wheat Products,17.2,co2_emmission
+Trinidad and Tobago,Rice,20.96,co2_emmission
+Trinidad and Tobago,Soybeans,0.02,co2_emmission
+Trinidad and Tobago,Nuts inc. Peanut Butter,6.69,co2_emmission
+Tunisia,Pork,0,co2_emmission
+Tunisia,Poultry,19.87,co2_emmission
+Tunisia,Beef,170.64,co2_emmission
+Tunisia,Lamb & Goat,187.01,co2_emmission
+Tunisia,Fish,20.17,co2_emmission
+Tunisia,Eggs,7.05,co2_emmission
+Tunisia,Milk - inc. cheese,163.05,co2_emmission
+Tunisia,Wheat and Wheat Products,37.66,co2_emmission
+Tunisia,Rice,1.37,co2_emmission
+Tunisia,Soybeans,0.85,co2_emmission
+Tunisia,Nuts inc. Peanut Butter,11.22,co2_emmission
+Egypt,Pork,0.07,co2_emmission
+Egypt,Poultry,15.5,co2_emmission
+Egypt,Beef,397.45,co2_emmission
+Egypt,Lamb & Goat,55.33,co2_emmission
+Egypt,Fish,34.26,co2_emmission
+Egypt,Eggs,4.22,co2_emmission
+Egypt,Milk - inc. cheese,84.69,co2_emmission
+Egypt,Wheat and Wheat Products,28,co2_emmission
+Egypt,Rice,50.89,co2_emmission
+Egypt,Soybeans,0.29,co2_emmission
+Egypt,Nuts inc. Peanut Butter,3.22,co2_emmission
+Mauritius,Pork,14.44,co2_emmission
+Mauritius,Poultry,41.37,co2_emmission
+Mauritius,Beef,184.84,co2_emmission
+Mauritius,Lamb & Goat,142.88,co2_emmission
+Mauritius,Fish,31.39,co2_emmission
+Mauritius,Eggs,5.81,co2_emmission
+Mauritius,Milk - inc. cheese,167.04,co2_emmission
+Mauritius,Wheat and Wheat Products,21.74,co2_emmission
+Mauritius,Rice,58.3,co2_emmission
+Mauritius,Soybeans,0.14,co2_emmission
+Mauritius,Nuts inc. Peanut Butter,4.12,co2_emmission
+Bulgaria,Pork,92.95,co2_emmission
+Bulgaria,Poultry,22.21,co2_emmission
+Bulgaria,Beef,118.49,co2_emmission
+Bulgaria,Lamb & Goat,57.08,co2_emmission
+Bulgaria,Fish,9.96,co2_emmission
+Bulgaria,Eggs,7.68,co2_emmission
+Bulgaria,Milk - inc. cheese,221.79,co2_emmission
+Bulgaria,Wheat and Wheat Products,23.11,co2_emmission
+Bulgaria,Rice,2.87,co2_emmission
+Bulgaria,Soybeans,0.02,co2_emmission
+Bulgaria,Nuts inc. Peanut Butter,4,co2_emmission
+Morocco,Pork,0.04,co2_emmission
+Morocco,Poultry,22.31,co2_emmission
+Morocco,Beef,248.1,co2_emmission
+Morocco,Lamb & Goat,152.69,co2_emmission
+Morocco,Fish,27.85,co2_emmission
+Morocco,Eggs,6.14,co2_emmission
+Morocco,Milk - inc. cheese,77.89,co2_emmission
+Morocco,Wheat and Wheat Products,34.27,co2_emmission
+Morocco,Rice,1.41,co2_emmission
+Morocco,Soybeans,0,co2_emmission
+Morocco,Nuts inc. Peanut Butter,5.72,co2_emmission
+Slovakia,Pork,112.49,co2_emmission
+Slovakia,Poultry,16.25,co2_emmission
+Slovakia,Beef,160.15,co2_emmission
+Slovakia,Lamb & Goat,5.6,co2_emmission
+Slovakia,Fish,13.4,co2_emmission
+Slovakia,Eggs,14.74,co2_emmission
+Slovakia,Milk - inc. cheese,203.89,co2_emmission
+Slovakia,Wheat and Wheat Products,23.57,co2_emmission
+Slovakia,Rice,3.69,co2_emmission
+Slovakia,Soybeans,0.01,co2_emmission
+Slovakia,Nuts inc. Peanut Butter,6.55,co2_emmission
+Niger,Pork,0.32,co2_emmission
+Niger,Poultry,1.16,co2_emmission
+Niger,Beef,276.8,co2_emmission
+Niger,Lamb & Goat,146.03,co2_emmission
+Niger,Fish,4.31,co2_emmission
+Niger,Eggs,0.28,co2_emmission
+Niger,Milk - inc. cheese,83.93,co2_emmission
+Niger,Wheat and Wheat Products,0.91,co2_emmission
+Niger,Rice,16.85,co2_emmission
+Niger,Soybeans,0,co2_emmission
+Niger,Nuts inc. Peanut Butter,12.3,co2_emmission
+Kenya,Pork,1.03,co2_emmission
+Kenya,Poultry,0.5,co2_emmission
+Kenya,Beef,294.38,co2_emmission
+Kenya,Lamb & Goat,65.14,co2_emmission
+Kenya,Fish,6.82,co2_emmission
+Kenya,Eggs,1.69,co2_emmission
+Kenya,Milk - inc. cheese,135.12,co2_emmission
+Kenya,Wheat and Wheat Products,6.61,co2_emmission
+Kenya,Rice,16.56,co2_emmission
+Kenya,Soybeans,0.09,co2_emmission
+Kenya,Nuts inc. Peanut Butter,2.9,co2_emmission
+Jordan,Pork,0.07,co2_emmission
+Jordan,Poultry,35.87,co2_emmission
+Jordan,Beef,173.11,co2_emmission
+Jordan,Lamb & Goat,198.91,co2_emmission
+Jordan,Fish,8.19,co2_emmission
+Jordan,Eggs,3.6,co2_emmission
+Jordan,Milk - inc. cheese,110.65,co2_emmission
+Jordan,Wheat and Wheat Products,26.08,co2_emmission
+Jordan,Rice,25.17,co2_emmission
+Jordan,Soybeans,0.01,co2_emmission
+Jordan,Nuts inc. Peanut Butter,6.3,co2_emmission
+Japan,Pork,72.98,co2_emmission
+Japan,Poultry,20.86,co2_emmission
+Japan,Beef,282.35,co2_emmission
+Japan,Lamb & Goat,4.9,co2_emmission
+Japan,Fish,49.66,co2_emmission
+Japan,Eggs,17.59,co2_emmission
+Japan,Milk - inc. cheese,102.64,co2_emmission
+Japan,Wheat and Wheat Products,8.59,co2_emmission
+Japan,Rice,76.59,co2_emmission
+Japan,Soybeans,3.3,co2_emmission
+Japan,Nuts inc. Peanut Butter,4.58,co2_emmission
+Georgia,Pork,31.61,co2_emmission
+Georgia,Poultry,13.19,co2_emmission
+Georgia,Beef,186.38,co2_emmission
+Georgia,Lamb & Goat,22.06,co2_emmission
+Georgia,Fish,16.64,co2_emmission
+Georgia,Eggs,5.62,co2_emmission
+Georgia,Milk - inc. cheese,212.61,co2_emmission
+Georgia,Wheat and Wheat Products,31.17,co2_emmission
+Georgia,Rice,3.38,co2_emmission
+Georgia,Soybeans,0,co2_emmission
+Georgia,Nuts inc. Peanut Butter,4.37,co2_emmission
+Grenada,Pork,40.78,co2_emmission
+Grenada,Poultry,46.74,co2_emmission
+Grenada,Beef,106.77,co2_emmission
+Grenada,Lamb & Goat,43.77,co2_emmission
+Grenada,Fish,44.63,co2_emmission
+Grenada,Eggs,9.5,co2_emmission
+Grenada,Milk - inc. cheese,123.75,co2_emmission
+Grenada,Wheat and Wheat Products,11.36,co2_emmission
+Grenada,Rice,12.23,co2_emmission
+Grenada,Soybeans,0,co2_emmission
+Grenada,Nuts inc. Peanut Butter,0.32,co2_emmission
+El Salvador,Pork,11.43,co2_emmission
+El Salvador,Poultry,21.31,co2_emmission
+El Salvador,Beef,183.6,co2_emmission
+El Salvador,Lamb & Goat,0.7,co2_emmission
+El Salvador,Fish,9.98,co2_emmission
+El Salvador,Eggs,8.74,co2_emmission
+El Salvador,Milk - inc. cheese,177.11,co2_emmission
+El Salvador,Wheat and Wheat Products,5.38,co2_emmission
+El Salvador,Rice,13.48,co2_emmission
+El Salvador,Soybeans,0.36,co2_emmission
+El Salvador,Nuts inc. Peanut Butter,1.95,co2_emmission
+Cuba,Pork,70.15,co2_emmission
+Cuba,Poultry,21.65,co2_emmission
+Cuba,Beef,197.18,co2_emmission
+Cuba,Lamb & Goat,43.42,co2_emmission
+Cuba,Fish,7.6,co2_emmission
+Cuba,Eggs,9.02,co2_emmission
+Cuba,Milk - inc. cheese,142.35,co2_emmission
+Cuba,Wheat and Wheat Products,10.42,co2_emmission
+Cuba,Rice,86.64,co2_emmission
+Cuba,Soybeans,2.85,co2_emmission
+Cuba,Nuts inc. Peanut Butter,0.41,co2_emmission
+China,Pork,136.02,co2_emmission
+China,Poultry,14.18,co2_emmission
+China,Beef,157.99,co2_emmission
+China,Lamb & Goat,109.61,co2_emmission
+China,Fish,33.55,co2_emmission
+China,Eggs,17.23,co2_emmission
+China,Milk - inc. cheese,46.52,co2_emmission
+China,Wheat and Wheat Products,12.08,co2_emmission
+China,Rice,100.05,co2_emmission
+China,Soybeans,1.65,co2_emmission
+China,Nuts inc. Peanut Butter,11.31,co2_emmission
+Honduras,Pork,22.94,co2_emmission
+Honduras,Poultry,21.8,co2_emmission
+Honduras,Beef,221.87,co2_emmission
+Honduras,Lamb & Goat,1.4,co2_emmission
+Honduras,Fish,4.31,co2_emmission
+Honduras,Eggs,4.77,co2_emmission
+Honduras,Milk - inc. cheese,130.09,co2_emmission
+Honduras,Wheat and Wheat Products,7.12,co2_emmission
+Honduras,Rice,18.45,co2_emmission
+Honduras,Soybeans,0,co2_emmission
+Honduras,Nuts inc. Peanut Butter,1.33,co2_emmission
+Taiwan. ROC,Pork,139.35,co2_emmission
+Taiwan. ROC,Poultry,34.51,co2_emmission
+Taiwan. ROC,Beef,160.77,co2_emmission
+Taiwan. ROC,Lamb & Goat,32.22,co2_emmission
+Taiwan. ROC,Fish,29.2,co2_emmission
+Taiwan. ROC,Eggs,12.02,co2_emmission
+Taiwan. ROC,Milk - inc. cheese,59.43,co2_emmission
+Taiwan. ROC,Wheat and Wheat Products,9.71,co2_emmission
+Taiwan. ROC,Rice,58.67,co2_emmission
+Taiwan. ROC,Soybeans,7.63,co2_emmission
+Taiwan. ROC,Nuts inc. Peanut Butter,16.04,co2_emmission
+Angola,Pork,31.47,co2_emmission
+Angola,Poultry,18.62,co2_emmission
+Angola,Beef,259.82,co2_emmission
+Angola,Lamb & Goat,37.82,co2_emmission
+Angola,Fish,24.33,co2_emmission
+Angola,Eggs,1.02,co2_emmission
+Angola,Milk - inc. cheese,17.52,co2_emmission
+Angola,Wheat and Wheat Products,7.77,co2_emmission
+Angola,Rice,10.39,co2_emmission
+Angola,Soybeans,0.23,co2_emmission
+Angola,Nuts inc. Peanut Butter,4,co2_emmission
+Jamaica,Pork,14.12,co2_emmission
+Jamaica,Poultry,56.41,co2_emmission
+Jamaica,Beef,122.51,co2_emmission
+Jamaica,Lamb & Goat,44.13,co2_emmission
+Jamaica,Fish,35.05,co2_emmission
+Jamaica,Eggs,2.09,co2_emmission
+Jamaica,Milk - inc. cheese,129.81,co2_emmission
+Jamaica,Wheat and Wheat Products,13.48,co2_emmission
+Jamaica,Rice,30.01,co2_emmission
+Jamaica,Soybeans,0,co2_emmission
+Jamaica,Nuts inc. Peanut Butter,3.22,co2_emmission
+Namibia,Pork,14.9,co2_emmission
+Namibia,Poultry,13.09,co2_emmission
+Namibia,Beef,115.72,co2_emmission
+Namibia,Lamb & Goat,79.5,co2_emmission
+Namibia,Fish,17.08,co2_emmission
+Namibia,Eggs,1.5,co2_emmission
+Namibia,Milk - inc. cheese,104.05,co2_emmission
+Namibia,Wheat and Wheat Products,6.91,co2_emmission
+Namibia,Rice,8.07,co2_emmission
+Namibia,Soybeans,0.03,co2_emmission
+Namibia,Nuts inc. Peanut Butter,1.26,co2_emmission
+Belize,Pork,59.46,co2_emmission
+Belize,Poultry,30.41,co2_emmission
+Belize,Beef,149.97,co2_emmission
+Belize,Lamb & Goat,4.9,co2_emmission
+Belize,Fish,12.09,co2_emmission
+Belize,Eggs,4.46,co2_emmission
+Belize,Milk - inc. cheese,114.38,co2_emmission
+Belize,Wheat and Wheat Products,10.31,co2_emmission
+Belize,Rice,36.37,co2_emmission
+Belize,Soybeans,0.85,co2_emmission
+Belize,Nuts inc. Peanut Butter,9.88,co2_emmission
+Malaysia,Pork,27.47,co2_emmission
+Malaysia,Poultry,44.05,co2_emmission
+Malaysia,Beef,201.19,co2_emmission
+Malaysia,Lamb & Goat,32.92,co2_emmission
+Malaysia,Fish,78.92,co2_emmission
+Malaysia,Eggs,15.22,co2_emmission
+Malaysia,Milk - inc. cheese,36.01,co2_emmission
+Malaysia,Wheat and Wheat Products,9.73,co2_emmission
+Malaysia,Rice,103.98,co2_emmission
+Malaysia,Soybeans,0.02,co2_emmission
+Malaysia,Nuts inc. Peanut Butter,5.13,co2_emmission
+Zimbabwe,Pork,9.38,co2_emmission
+Zimbabwe,Poultry,5.34,co2_emmission
+Zimbabwe,Beef,227.42,co2_emmission
+Zimbabwe,Lamb & Goat,33.62,co2_emmission
+Zimbabwe,Fish,4.47,co2_emmission
+Zimbabwe,Eggs,1.61,co2_emmission
+Zimbabwe,Milk - inc. cheese,45.44,co2_emmission
+Zimbabwe,Wheat and Wheat Products,5.97,co2_emmission
+Zimbabwe,Rice,12.91,co2_emmission
+Zimbabwe,Soybeans,0.24,co2_emmission
+Zimbabwe,Nuts inc. Peanut Butter,3.93,co2_emmission
+Guatemala,Pork,17.17,co2_emmission
+Guatemala,Poultry,17.67,co2_emmission
+Guatemala,Beef,172.8,co2_emmission
+Guatemala,Lamb & Goat,8.05,co2_emmission
+Guatemala,Fish,1.72,co2_emmission
+Guatemala,Eggs,13.42,co2_emmission
+Guatemala,Milk - inc. cheese,66.38,co2_emmission
+Guatemala,Wheat and Wheat Products,6.85,co2_emmission
+Guatemala,Rice,7.24,co2_emmission
+Guatemala,Soybeans,0.14,co2_emmission
+Guatemala,Nuts inc. Peanut Butter,3.54,co2_emmission
+Uganda,Pork,11.93,co2_emmission
+Uganda,Poultry,1.62,co2_emmission
+Uganda,Beef,158.92,co2_emmission
+Uganda,Lamb & Goat,43.77,co2_emmission
+Uganda,Fish,19.96,co2_emmission
+Uganda,Eggs,0.89,co2_emmission
+Uganda,Milk - inc. cheese,53.09,co2_emmission
+Uganda,Wheat and Wheat Products,1.93,co2_emmission
+Uganda,Rice,5.94,co2_emmission
+Uganda,Soybeans,0,co2_emmission
+Uganda,Nuts inc. Peanut Butter,6.67,co2_emmission
+Nepal,Pork,2.37,co2_emmission
+Nepal,Poultry,1.68,co2_emmission
+Nepal,Beef,243.47,co2_emmission
+Nepal,Lamb & Goat,73.54,co2_emmission
+Nepal,Fish,3.46,co2_emmission
+Nepal,Eggs,1.3,co2_emmission
+Nepal,Milk - inc. cheese,74.21,co2_emmission
+Nepal,Wheat and Wheat Products,9.62,co2_emmission
+Nepal,Rice,112.29,co2_emmission
+Nepal,Soybeans,0,co2_emmission
+Nepal,Nuts inc. Peanut Butter,4.28,co2_emmission
+Iran,Pork,0,co2_emmission
+Iran,Poultry,27.26,co2_emmission
+Iran,Beef,110.47,co2_emmission
+Iran,Lamb & Goat,129.22,co2_emmission
+Iran,Fish,15.65,co2_emmission
+Iran,Eggs,7.07,co2_emmission
+Iran,Milk - inc. cheese,66.51,co2_emmission
+Iran,Wheat and Wheat Products,29.24,co2_emmission
+Iran,Rice,38.33,co2_emmission
+Iran,Soybeans,0,co2_emmission
+Iran,Nuts inc. Peanut Butter,21.52,co2_emmission
+Tanzania,Pork,1.13,co2_emmission
+Tanzania,Poultry,1.98,co2_emmission
+Tanzania,Beef,187.92,co2_emmission
+Tanzania,Lamb & Goat,44.83,co2_emmission
+Tanzania,Fish,8.78,co2_emmission
+Tanzania,Eggs,0.53,co2_emmission
+Tanzania,Milk - inc. cheese,57.39,co2_emmission
+Tanzania,Wheat and Wheat Products,3.04,co2_emmission
+Tanzania,Rice,26.89,co2_emmission
+Tanzania,Soybeans,0.02,co2_emmission
+Tanzania,Nuts inc. Peanut Butter,10.51,co2_emmission
+Senegal,Pork,3.33,co2_emmission
+Senegal,Poultry,4.96,co2_emmission
+Senegal,Beef,180.52,co2_emmission
+Senegal,Lamb & Goat,111.71,co2_emmission
+Senegal,Fish,36.63,co2_emmission
+Senegal,Eggs,1.5,co2_emmission
+Senegal,Milk - inc. cheese,24.02,co2_emmission
+Senegal,Wheat and Wheat Products,7.12,co2_emmission
+Senegal,Rice,92.51,co2_emmission
+Senegal,Soybeans,0,co2_emmission
+Senegal,Nuts inc. Peanut Butter,7.13,co2_emmission
+Peru,Pork,13.63,co2_emmission
+Peru,Poultry,12.59,co2_emmission
+Peru,Beef,144.72,co2_emmission
+Peru,Lamb & Goat,35.02,co2_emmission
+Peru,Fish,25.13,co2_emmission
+Peru,Eggs,8.05,co2_emmission
+Peru,Milk - inc. cheese,88.53,co2_emmission
+Peru,Wheat and Wheat Products,10.7,co2_emmission
+Peru,Rice,62.6,co2_emmission
+Peru,Soybeans,0.72,co2_emmission
+Peru,Nuts inc. Peanut Butter,1.15,co2_emmission
+Nicaragua,Pork,11.96,co2_emmission
+Nicaragua,Poultry,22.89,co2_emmission
+Nicaragua,Beef,145.96,co2_emmission
+Nicaragua,Lamb & Goat,0.35,co2_emmission
+Nicaragua,Fish,5.73,co2_emmission
+Nicaragua,Eggs,4.5,co2_emmission
+Nicaragua,Milk - inc. cheese,121.3,co2_emmission
+Nicaragua,Wheat and Wheat Products,5.37,co2_emmission
+Nicaragua,Rice,55.45,co2_emmission
+Nicaragua,Soybeans,0,co2_emmission
+Nicaragua,Nuts inc. Peanut Butter,4.18,co2_emmission
+Vietnam,Pork,123.88,co2_emmission
+Vietnam,Poultry,13.28,co2_emmission
+Vietnam,Beef,229.58,co2_emmission
+Vietnam,Lamb & Goat,4.9,co2_emmission
+Vietnam,Fish,42.34,co2_emmission
+Vietnam,Eggs,3.53,co2_emmission
+Vietnam,Milk - inc. cheese,23.3,co2_emmission
+Vietnam,Wheat and Wheat Products,2,co2_emmission
+Vietnam,Rice,184.99,co2_emmission
+Vietnam,Soybeans,2.59,co2_emmission
+Vietnam,Nuts inc. Peanut Butter,11.12,co2_emmission
+Ethiopia,Pork,0.07,co2_emmission
+Ethiopia,Poultry,0.71,co2_emmission
+Ethiopia,Beef,111.4,co2_emmission
+Ethiopia,Lamb & Goat,54.98,co2_emmission
+Ethiopia,Fish,0.38,co2_emmission
+Ethiopia,Eggs,0.33,co2_emmission
+Ethiopia,Milk - inc. cheese,62.87,co2_emmission
+Ethiopia,Wheat and Wheat Products,5.96,co2_emmission
+Ethiopia,Rice,2.88,co2_emmission
+Ethiopia,Soybeans,0.2,co2_emmission
+Ethiopia,Nuts inc. Peanut Butter,2.14,co2_emmission
+Myanmar,Pork,40.03,co2_emmission
+Myanmar,Poultry,23.49,co2_emmission
+Myanmar,Beef,152.44,co2_emmission
+Myanmar,Lamb & Goat,31.17,co2_emmission
+Myanmar,Fish,86.64,co2_emmission
+Myanmar,Eggs,5.92,co2_emmission
+Myanmar,Milk - inc. cheese,44.84,co2_emmission
+Myanmar,Wheat and Wheat Products,1.19,co2_emmission
+Myanmar,Rice,169.94,co2_emmission
+Myanmar,Soybeans,0.17,co2_emmission
+Myanmar,Nuts inc. Peanut Butter,7.97,co2_emmission
+Congo,Pork,8.46,co2_emmission
+Congo,Poultry,13.99,co2_emmission
+Congo,Beef,134.23,co2_emmission
+Congo,Lamb & Goat,14.01,co2_emmission
+Congo,Fish,41.86,co2_emmission
+Congo,Eggs,0.55,co2_emmission
+Congo,Milk - inc. cheese,15.23,co2_emmission
+Congo,Wheat and Wheat Products,7.64,co2_emmission
+Congo,Rice,21.13,co2_emmission
+Congo,Soybeans,0,co2_emmission
+Congo,Nuts inc. Peanut Butter,5.45,co2_emmission
+Zambia,Pork,5.88,co2_emmission
+Zambia,Poultry,3.53,co2_emmission
+Zambia,Beef,146.88,co2_emmission
+Zambia,Lamb & Goat,23.81,co2_emmission
+Zambia,Fish,9.9,co2_emmission
+Zambia,Eggs,3.05,co2_emmission
+Zambia,Milk - inc. cheese,13.83,co2_emmission
+Zambia,Wheat and Wheat Products,2.31,co2_emmission
+Zambia,Rice,3.9,co2_emmission
+Zambia,Soybeans,3.29,co2_emmission
+Zambia,Nuts inc. Peanut Butter,8.92,co2_emmission
+Cameroon,Pork,5.2,co2_emmission
+Cameroon,Poultry,3.53,co2_emmission
+Cameroon,Beef,128.68,co2_emmission
+Cameroon,Lamb & Goat,49.03,co2_emmission
+Cameroon,Fish,23.49,co2_emmission
+Cameroon,Eggs,0.37,co2_emmission
+Cameroon,Milk - inc. cheese,21.75,co2_emmission
+Cameroon,Wheat and Wheat Products,4.31,co2_emmission
+Cameroon,Rice,30.52,co2_emmission
+Cameroon,Soybeans,0.29,co2_emmission
+Cameroon,Nuts inc. Peanut Butter,16.44,co2_emmission
+Madagascar,Pork,9.06,co2_emmission
+Madagascar,Poultry,3.37,co2_emmission
+Madagascar,Beef,231.74,co2_emmission
+Madagascar,Lamb & Goat,19.96,co2_emmission
+Madagascar,Fish,7.04,co2_emmission
+Madagascar,Eggs,0.65,co2_emmission
+Madagascar,Milk - inc. cheese,35.38,co2_emmission
+Madagascar,Wheat and Wheat Products,1.72,co2_emmission
+Madagascar,Rice,131.21,co2_emmission
+Madagascar,Soybeans,0,co2_emmission
+Madagascar,Nuts inc. Peanut Butter,0.62,co2_emmission
+Malawi,Pork,19.29,co2_emmission
+Malawi,Poultry,1.48,co2_emmission
+Malawi,Beef,72.52,co2_emmission
+Malawi,Lamb & Goat,72.49,co2_emmission
+Malawi,Fish,11.7,co2_emmission
+Malawi,Eggs,0.99,co2_emmission
+Malawi,Milk - inc. cheese,11.37,co2_emmission
+Malawi,Wheat and Wheat Products,2.24,co2_emmission
+Malawi,Rice,6.08,co2_emmission
+Malawi,Soybeans,0.79,co2_emmission
+Malawi,Nuts inc. Peanut Butter,8.99,co2_emmission
+Guinea,Pork,0.57,co2_emmission
+Guinea,Poultry,1.97,co2_emmission
+Guinea,Beef,193.17,co2_emmission
+Guinea,Lamb & Goat,56.03,co2_emmission
+Guinea,Fish,14.66,co2_emmission
+Guinea,Eggs,1.79,co2_emmission
+Guinea,Milk - inc. cheese,29.37,co2_emmission
+Guinea,Wheat and Wheat Products,3.54,co2_emmission
+Guinea,Rice,124.28,co2_emmission
+Guinea,Soybeans,0,co2_emmission
+Guinea,Nuts inc. Peanut Butter,7.33,co2_emmission
+Nigeria,Pork,5.2,co2_emmission
+Nigeria,Poultry,1.86,co2_emmission
+Nigeria,Beef,71.9,co2_emmission
+Nigeria,Lamb & Goat,95.25,co2_emmission
+Nigeria,Fish,25.59,co2_emmission
+Nigeria,Eggs,3.18,co2_emmission
+Nigeria,Milk - inc. cheese,11.27,co2_emmission
+Nigeria,Wheat and Wheat Products,3.97,co2_emmission
+Nigeria,Rice,36.13,co2_emmission
+Nigeria,Soybeans,1.17,co2_emmission
+Nigeria,Nuts inc. Peanut Butter,12.27,co2_emmission
+Rwanda,Pork,2.69,co2_emmission
+Rwanda,Poultry,1.44,co2_emmission
+Rwanda,Beef,78.07,co2_emmission
+Rwanda,Lamb & Goat,67.59,co2_emmission
+Rwanda,Fish,6.2,co2_emmission
+Rwanda,Eggs,0.15,co2_emmission
+Rwanda,Milk - inc. cheese,10.3,co2_emmission
+Rwanda,Wheat and Wheat Products,2.16,co2_emmission
+Rwanda,Rice,11.13,co2_emmission
+Rwanda,Soybeans,0.87,co2_emmission
+Rwanda,Nuts inc. Peanut Butter,1.03,co2_emmission
+Philippines,Pork,65.13,co2_emmission
+Philippines,Poultry,12.79,co2_emmission
+Philippines,Beef,125.28,co2_emmission
+Philippines,Lamb & Goat,19.61,co2_emmission
+Philippines,Fish,45.52,co2_emmission
+Philippines,Eggs,3.69,co2_emmission
+Philippines,Milk - inc. cheese,22.31,co2_emmission
+Philippines,Wheat and Wheat Products,4.41,co2_emmission
+Philippines,Rice,152.85,co2_emmission
+Philippines,Soybeans,0.01,co2_emmission
+Philippines,Nuts inc. Peanut Butter,3.68,co2_emmission
+Ghana,Pork,4.81,co2_emmission
+Ghana,Poultry,9.27,co2_emmission
+Ghana,Beef,33.64,co2_emmission
+Ghana,Lamb & Goat,60.93,co2_emmission
+Ghana,Fish,41.59,co2_emmission
+Ghana,Eggs,1.11,co2_emmission
+Ghana,Milk - inc. cheese,12.93,co2_emmission
+Ghana,Wheat and Wheat Products,2.76,co2_emmission
+Ghana,Rice,40.99,co2_emmission
+Ghana,Soybeans,0,co2_emmission
+Ghana,Nuts inc. Peanut Butter,9.84,co2_emmission
+Togo,Pork,5.56,co2_emmission
+Togo,Poultry,7.12,co2_emmission
+Togo,Beef,47.21,co2_emmission
+Togo,Lamb & Goat,55.33,co2_emmission
+Togo,Fish,18.67,co2_emmission
+Togo,Eggs,0.79,co2_emmission
+Togo,Milk - inc. cheese,11.34,co2_emmission
+Togo,Wheat and Wheat Products,2.46,co2_emmission
+Togo,Rice,33.26,co2_emmission
+Togo,Soybeans,0,co2_emmission
+Togo,Nuts inc. Peanut Butter,6.35,co2_emmission
+Gambia,Pork,0.64,co2_emmission
+Gambia,Poultry,2.86,co2_emmission
+Gambia,Beef,66.65,co2_emmission
+Gambia,Lamb & Goat,24.86,co2_emmission
+Gambia,Fish,36.93,co2_emmission
+Gambia,Eggs,0.91,co2_emmission
+Gambia,Milk - inc. cheese,65.11,co2_emmission
+Gambia,Wheat and Wheat Products,7.23,co2_emmission
+Gambia,Rice,79.14,co2_emmission
+Gambia,Soybeans,0,co2_emmission
+Gambia,Nuts inc. Peanut Butter,9.33,co2_emmission
+India,Pork,0.99,co2_emmission
+India,Poultry,2.02,co2_emmission
+India,Beef,24.99,co2_emmission
+India,Lamb & Goat,20.31,co2_emmission
+India,Fish,7.52,co2_emmission
+India,Eggs,2.37,co2_emmission
+India,Milk - inc. cheese,120.36,co2_emmission
+India,Wheat and Wheat Products,11.55,co2_emmission
+India,Rice,88.93,co2_emmission
+India,Soybeans,0.18,co2_emmission
+India,Nuts inc. Peanut Butter,3.4,co2_emmission
+Thailand,Pork,46.01,co2_emmission
+Thailand,Poultry,14.71,co2_emmission
+Thailand,Beef,79,co2_emmission
+Thailand,Lamb & Goat,1.75,co2_emmission
+Thailand,Fish,31.06,co2_emmission
+Thailand,Eggs,11.34,co2_emmission
+Thailand,Milk - inc. cheese,41.81,co2_emmission
+Thailand,Wheat and Wheat Products,2.08,co2_emmission
+Thailand,Rice,146.62,co2_emmission
+Thailand,Soybeans,0.96,co2_emmission
+Thailand,Nuts inc. Peanut Butter,2.66,co2_emmission
+Mozambique,Pork,18.16,co2_emmission
+Mozambique,Poultry,1.51,co2_emmission
+Mozambique,Beef,32.09,co2_emmission
+Mozambique,Lamb & Goat,31.52,co2_emmission
+Mozambique,Fish,12.36,co2_emmission
+Mozambique,Eggs,1.56,co2_emmission
+Mozambique,Milk - inc. cheese,6.82,co2_emmission
+Mozambique,Wheat and Wheat Products,2.79,co2_emmission
+Mozambique,Rice,29.96,co2_emmission
+Mozambique,Soybeans,0.01,co2_emmission
+Mozambique,Nuts inc. Peanut Butter,4.62,co2_emmission
+Cambodia,Pork,23.08,co2_emmission
+Cambodia,Poultry,1.98,co2_emmission
+Cambodia,Beef,149.66,co2_emmission
+Cambodia,Lamb & Goat,0,co2_emmission
+Cambodia,Fish,63.21,co2_emmission
+Cambodia,Eggs,1.26,co2_emmission
+Cambodia,Milk - inc. cheese,4.94,co2_emmission
+Cambodia,Wheat and Wheat Products,0.52,co2_emmission
+Cambodia,Rice,203.6,co2_emmission
+Cambodia,Soybeans,1.95,co2_emmission
+Cambodia,Nuts inc. Peanut Butter,2.21,co2_emmission
+Sierra Leone,Pork,4.32,co2_emmission
+Sierra Leone,Poultry,5.34,co2_emmission
+Sierra Leone,Beef,61.41,co2_emmission
+Sierra Leone,Lamb & Goat,22.76,co2_emmission
+Sierra Leone,Fish,51.14,co2_emmission
+Sierra Leone,Eggs,1.76,co2_emmission
+Sierra Leone,Milk - inc. cheese,9.97,co2_emmission
+Sierra Leone,Wheat and Wheat Products,1.66,co2_emmission
+Sierra Leone,Rice,132.19,co2_emmission
+Sierra Leone,Soybeans,0,co2_emmission
+Sierra Leone,Nuts inc. Peanut Butter,9.86,co2_emmission
+Sri Lanka,Pork,0.18,co2_emmission
+Sri Lanka,Poultry,5.33,co2_emmission
+Sri Lanka,Beef,42.58,co2_emmission
+Sri Lanka,Lamb & Goat,3.15,co2_emmission
+Sri Lanka,Fish,39.79,co2_emmission
+Sri Lanka,Eggs,4.2,co2_emmission
+Sri Lanka,Milk - inc. cheese,49.83,co2_emmission
+Sri Lanka,Wheat and Wheat Products,7.06,co2_emmission
+Sri Lanka,Rice,140.41,co2_emmission
+Sri Lanka,Soybeans,0,co2_emmission
+Sri Lanka,Nuts inc. Peanut Butter,1.93,co2_emmission
+Indonesia,Pork,10.55,co2_emmission
+Indonesia,Poultry,8.06,co2_emmission
+Indonesia,Beef,79.92,co2_emmission
+Indonesia,Lamb & Goat,16.11,co2_emmission
+Indonesia,Fish,40.95,co2_emmission
+Indonesia,Eggs,4.48,co2_emmission
+Indonesia,Milk - inc. cheese,21.11,co2_emmission
+Indonesia,Wheat and Wheat Products,4.85,co2_emmission
+Indonesia,Rice,172.27,co2_emmission
+Indonesia,Soybeans,0.5,co2_emmission
+Indonesia,Nuts inc. Peanut Butter,8.71,co2_emmission
+Liberia,Pork,14.19,co2_emmission
+Liberia,Poultry,9.57,co2_emmission
+Liberia,Beef,24.07,co2_emmission
+Liberia,Lamb & Goat,16.81,co2_emmission
+Liberia,Fish,6.59,co2_emmission
+Liberia,Eggs,1.88,co2_emmission
+Liberia,Milk - inc. cheese,4.33,co2_emmission
+Liberia,Wheat and Wheat Products,2.09,co2_emmission
+Liberia,Rice,121.25,co2_emmission
+Liberia,Soybeans,0.28,co2_emmission
+Liberia,Nuts inc. Peanut Butter,2.32,co2_emmission
+Bangladesh,Pork,0,co2_emmission
+Bangladesh,Poultry,1.5,co2_emmission
+Bangladesh,Beef,39.5,co2_emmission
+Bangladesh,Lamb & Goat,46.58,co2_emmission
+Bangladesh,Fish,28.85,co2_emmission
+Bangladesh,Eggs,1.91,co2_emmission
+Bangladesh,Milk - inc. cheese,31.21,co2_emmission
+Bangladesh,Wheat and Wheat Products,3.33,co2_emmission
+Bangladesh,Rice,219.76,co2_emmission
+Bangladesh,Soybeans,0.27,co2_emmission
+Bangladesh,Nuts inc. Peanut Butter,1.27,co2_emmission
